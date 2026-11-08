@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "jwa-game-changes.v1",
+  "fromGameVersion": "3.23.57",
+  "toGameVersion": "3.23.57",
+  "packageSha256": "760fae8439d85b0ff2a6d40ae285743a7f562ee2f7c8a78de8e83b21ab7e5554",
+  "baseline": true,
+  "addedIds": [],
+  "removedIds": [],
+  "changedCreatures": [],
+  "rarityChanges": {}
+}

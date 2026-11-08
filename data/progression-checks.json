@@ -1,0 +1,8 @@
+{
+  "schemaVersion": "jwa-progression-checks.v1",
+  "gameVersion": "3.23.57",
+  "checkedFields": 221,
+  "mismatches": [],
+  "paleoUpdatedAt": "2026-10-15",
+  "packageSha256": "760fae8439d85b0ff2a6d40ae285743a7f562ee2f7c8a78de8e83b21ab7e5554"
+}
