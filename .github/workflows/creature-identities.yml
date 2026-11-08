@@ -1,0 +1,37 @@
+name: Refresh creature identities
+
+on:
+  schedule:
+    - cron: "23 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: creature-identities
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check matching and unchanged-version behavior
+        run: python -m unittest discover -s scripts -p 'creature_identity_catalog_test.py'
+      - name: Check versions and regenerate changed data
+        run: python scripts/build-creature-identity-catalog.py
+      - name: Publish verified catalog
+        run: |
+          git add data/creature-identities.json data/game-creatures.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh verified creature identities'
+          git push
