@@ -1,0 +1,2005 @@
+{
+  "schemaVersion": "jwa-creature-identities.v1",
+  "gameVersion": "3.23.57",
+  "packageSha256": "760fae8439d85b0ff2a6d40ae285743a7f562ee2f7c8a78de8e83b21ab7e5554",
+  "paleoUpdatedAt": "2026-10-15",
+  "generatedAt": "2026-11-08T06:42:04.234236+00:00",
+  "identities": {
+    "009fa61d4c8eac7459fab99f85c4a21b": {
+      "displayName": "Stomatosuchus Mattel",
+      "rarity": "Unique"
+    },
+    "010c919865343d946939fa28a4898c4c": {
+      "displayName": "Edmontoguanodon",
+      "rarity": "Epic"
+    },
+    "019f83b3f0afd7a4fac573e4c14cc8ab": {
+      "displayName": "Postimetrodon",
+      "rarity": "Epic"
+    },
+    "01be78f0a85698748b2d59a8da9f0f49": {
+      "displayName": "Gorgonops",
+      "rarity": "Rare"
+    },
+    "028f015ad731abb4da2c255f32e0dd8c": {
+      "displayName": "Arctocanis",
+      "rarity": "Unique"
+    },
+    "034c7ab136e6acd4a873c9594a04ae47": {
+      "displayName": "Quetzaljara",
+      "rarity": "Unique"
+    },
+    "03ab6a222f909314cb1a370fbb59f31d": {
+      "displayName": "Deinosuchus",
+      "rarity": "Rare"
+    },
+    "0420082f1e82c7e4ebf573852dfefdb3": {
+      "displayName": "Gorgotrebax",
+      "rarity": "Apex"
+    },
+    "0443bf94efebd774fa7a03c004ec2b98": {
+      "displayName": "Plateopikasaurus",
+      "rarity": "Unique"
+    },
+    "0444211416f8c7d4090b00107be2f052": {
+      "displayName": "Ankylosaurus",
+      "rarity": "Epic"
+    },
+    "046923f6ac87f6c4d933e73b1dca98a6": {
+      "displayName": "Ardentismaxima",
+      "rarity": "Unique"
+    },
+    "05865dc28682e494dbef7f2ae5e211bb": {
+      "displayName": "Arsinoitherium",
+      "rarity": "Rare"
+    },
+    "05c091b777f273f45a76b74c27ecaa39": {
+      "displayName": "Lystrosuchus",
+      "rarity": "Legendary"
+    },
+    "069ebe0152839c84ab240eed16ab8278": {
+      "displayName": "Leaellynasaura",
+      "rarity": "Omega"
+    },
+    "070cda5236e3c464d8e5071ea4b2ae40": {
+      "displayName": "Dsungaripterus",
+      "rarity": "Rare"
+    },
+    "07199fcf0808f804aa976a5c704ead36": {
+      "displayName": "Glyptodon",
+      "rarity": "Common"
+    },
+    "0737d4b564bd84449859d83b9684794c": {
+      "displayName": "Majundasuchus",
+      "rarity": "Rare"
+    },
+    "077aa8344f5fe814f8da07a8c677c3bf": {
+      "displayName": "Carcharodontosaurus",
+      "rarity": "Omega"
+    },
+    "079b9a386c870aa418783cf7392fceb2": {
+      "displayName": "Archaeopteryx",
+      "rarity": "Rare"
+    },
+    "07e6a869dc99c3f41bb25d08a528e2e4": {
+      "displayName": "Ouranosaurus",
+      "rarity": "Epic"
+    },
+    "08988e342e6212b4b9aa92e6eb0e24fb": {
+      "displayName": "Homalocephale",
+      "rarity": "Omega"
+    },
+    "08bf7d580551fcb4fa3659dd6e859133": {
+      "displayName": "Titanotholus",
+      "rarity": "Apex"
+    },
+    "090ddc5f68982774fb81f473cb2d55d1": {
+      "displayName": "Megalogaia",
+      "rarity": "Epic"
+    },
+    "09fa388be0976d244983fb895dfa0edd": {
+      "displayName": "Magnaraptor",
+      "rarity": "Apex"
+    },
+    "0a202969b4519b04ca5c56900ae70b02": {
+      "displayName": "Rajadorixis",
+      "rarity": "Apex"
+    },
+    "0a22373f4cd6c4d4c86389daeb58aa00": {
+      "displayName": "Megalocevia",
+      "rarity": "Apex"
+    },
+    "0aa95eb43658ea9418f8fd46643375ac": {
+      "displayName": "Inostrancevia",
+      "rarity": "Common"
+    },
+    "0ad8a6a035cde6b4cb1853fe85f2bc26": {
+      "displayName": "Rativates",
+      "rarity": "Omega"
+    },
+    "0af938c63b3f54c488cfdce077e9003f": {
+      "displayName": "Fukuitops",
+      "rarity": "Apex"
+    },
+    "0bd19e985051e284f8f74f2fbe1668bf": {
+      "displayName": "Allosaurus Gen2",
+      "rarity": "Epic"
+    },
+    "0c0151602a16de642b787b9bf47d9c00": {
+      "displayName": "Giganspinoceratops",
+      "rarity": "Unique"
+    },
+    "0c2a3ae11ce8f6b42a2c38a60d1ea474": {
+      "displayName": "Alankydactylus",
+      "rarity": "Apex"
+    },
+    "0ccaae68a887b0b49bde53aaed153ee9": {
+      "displayName": "Fukuisaurus",
+      "rarity": "Rare"
+    },
+    "0ccb9325667eaf0459daf13abec4f9fd": {
+      "displayName": "Suchotator",
+      "rarity": "Rare"
+    },
+    "0cccc5a9476c66341984174083544ed1": {
+      "displayName": "Amargocephalus",
+      "rarity": "Epic"
+    },
+    "0dee125637e62a64cbea0b93b399b271": {
+      "displayName": "Plateosaurus",
+      "rarity": "Common"
+    },
+    "0e665f5826c01234e958cf81eeb86e6a": {
+      "displayName": "Diloracheirus",
+      "rarity": "Unique"
+    },
+    "0f231d550078e594d86634b1d96e7bfd": {
+      "displayName": "Pterovexus",
+      "rarity": "Unique"
+    },
+    "0fb1736d33bb6a7488a06956aa8b3722": {
+      "displayName": "Saurophaganax",
+      "rarity": "Omega"
+    },
+    "0fffaf314f9a50d4781acf11dcb09ac6": {
+      "displayName": "Skoolasaurus",
+      "rarity": "Legendary"
+    },
+    "10c908dfedb803748a0759ad98a796a1": {
+      "displayName": "Atrocomaxima",
+      "rarity": "Apex"
+    },
+    "10ea4ea2fbe904c499bbea550d04c38d": {
+      "displayName": "Skorpiostegotops",
+      "rarity": "Unique"
+    },
+    "11600cfaa7caf3247b6ec05b58d0b988": {
+      "displayName": "Coelophysis",
+      "rarity": "Common"
+    },
+    "11fa2b921b5bce443894951b28cbabb7": {
+      "displayName": "Pteranodon",
+      "rarity": "Epic"
+    },
+    "12c9facf14657e449b1b182844136303": {
+      "displayName": "Baryonyx Gen 2",
+      "rarity": "Rare"
+    },
+    "12df9b5cfcd2cce48a3a87dbda15523e": {
+      "displayName": "Nomingia",
+      "rarity": "Unique"
+    },
+    "13c41ef6670ded74e81cbd64058dedef": {
+      "displayName": "Rebel",
+      "rarity": "Legendary"
+    },
+    "13e7bef002b7e684ca2e20d20d9e9427": {
+      "displayName": "Indochicyon",
+      "rarity": "Apex"
+    },
+    "141572fb993484440af201cebfbcbbfc": {
+      "displayName": "Scorpios Rex Gen 2",
+      "rarity": "Epic"
+    },
+    "148d5681fb964304685b992b2d5e57b0": {
+      "displayName": "Indoraptor",
+      "rarity": "Unique"
+    },
+    "160a9ba0394c583418d4c99c3962c86a": {
+      "displayName": "Dodocevia",
+      "rarity": "Legendary"
+    },
+    "161977074658cd74b97d6791c3865cf4": {
+      "displayName": "Dakotanops",
+      "rarity": "Legendary"
+    },
+    "16caa9eaa9ceab64494f1f9fdd7096c8": {
+      "displayName": "Clever Girl",
+      "rarity": "Omega"
+    },
+    "197cf87bb8ff1704b9cd26a1e7db6227": {
+      "displayName": "Dimorphodon",
+      "rarity": "Common"
+    },
+    "1a29685be916cee4f8bd6870005d0872": {
+      "displayName": "Gorgosaurus",
+      "rarity": "Rare"
+    },
+    "1a3e87af40731e443a3f7dd855aa9531": {
+      "displayName": "Plateorex",
+      "rarity": "Apex"
+    },
+    "1aeaffacc51888d46b233f128343b25c": {
+      "displayName": "Carnotaurus",
+      "rarity": "Rare"
+    },
+    "1c860b6f1bd221642aa11e7d7fa98e7e": {
+      "displayName": "Coelhaast",
+      "rarity": "Legendary"
+    },
+    "1cb329192307d6142b1ae19617a87ffc": {
+      "displayName": "Brontolasmus",
+      "rarity": "Epic"
+    },
+    "1cd0ad5fb34e0ef4d8875280ff999eba": {
+      "displayName": "Eremocanis",
+      "rarity": "Apex"
+    },
+    "1d88d08e460e7ef45b319ff517523e60": {
+      "displayName": "Aquisaurus",
+      "rarity": "Legendary"
+    },
+    "1f03e5562b98d7c4388a312015b93041": {
+      "displayName": "Dodo",
+      "rarity": "Epic"
+    },
+    "202b5e45e9fbadc45b5d28feabb8c3ee": {
+      "displayName": "Darwezopteryx",
+      "rarity": "Legendary"
+    },
+    "207a17d691b16ae4f90eb20ddf081754": {
+      "displayName": "Charlie",
+      "rarity": "Rare"
+    },
+    "209e05e1ecc39404f9678e8c8181162c": {
+      "displayName": "Ceratosaurus Gen 2",
+      "rarity": "Omega"
+    },
+    "219d415320673ce4fa4245d507b64f06": {
+      "displayName": "Archaeotherium",
+      "rarity": "Common"
+    },
+    "22610babc44b02640b2b2d4b44d5e1c1": {
+      "displayName": "Titanoboa Gen 2",
+      "rarity": "Rare"
+    },
+    "233be998d9e98bb4e8ab454933d3f66b": {
+      "displayName": "Apatosaurus",
+      "rarity": "Common"
+    },
+    "23873ddb89486af4fb75c9b491d2a776": {
+      "displayName": "Monolorhino",
+      "rarity": "Unique"
+    },
+    "23d0324e57ae7f04783483547b0025bd": {
+      "displayName": "Aquilosaurus",
+      "rarity": "Unique"
+    },
+    "240f452d22651c441958ca1a7f56f191": {
+      "displayName": "Baryothus",
+      "rarity": "Epic"
+    },
+    "249f65fa0a002fa4fbaa4b4d3bf80e88": {
+      "displayName": "Ceramagnus",
+      "rarity": "Apex"
+    },
+    "24f0600677a7115408d9fb11d6b9571f": {
+      "displayName": "Tarbognathus",
+      "rarity": "Legendary"
+    },
+    "253f81889c79a7a45b67bb6444403c98": {
+      "displayName": "Irritator",
+      "rarity": "Rare"
+    },
+    "27bfdc4ca2b796441b903732082d5ab1": {
+      "displayName": "Carbotoceratops",
+      "rarity": "Legendary"
+    },
+    "27e09701f811fbc46b526b355fbb6bf0": {
+      "displayName": "Cerastegotops",
+      "rarity": "Apex"
+    },
+    "27e92349a2658ca49b27bc374733f44d": {
+      "displayName": "Thylacotator",
+      "rarity": "Epic"
+    },
+    "27f406805db402c479941ed10f03464b": {
+      "displayName": "Thylacosmilus",
+      "rarity": "Rare"
+    },
+    "27fc773b1a994244d8e70f3dc717f462": {
+      "displayName": "Erlidominus",
+      "rarity": "Unique"
+    },
+    "281828a9ff489214d9c71a4642ce4c59": {
+      "displayName": "Atromolistis",
+      "rarity": "Apex"
+    },
+    "283bbe3ba3bc93c4680919d245126853": {
+      "displayName": "Megistotherium",
+      "rarity": "Epic"
+    },
+    "294f0e767c04e754db5f1e108a4efc97": {
+      "displayName": "Megalania",
+      "rarity": "Omega"
+    },
+    "29eb2ba9f0a197f47ab3f40338f5bfe9": {
+      "displayName": "Ankylocodon",
+      "rarity": "Rare"
+    },
+    "2a429877cc8ed91468165257eb7f958e": {
+      "displayName": "Gigaspikasaur",
+      "rarity": "Legendary"
+    },
+    "2a9b3540921316b4a87c8fe537a1bd39": {
+      "displayName": "Pyrorixis",
+      "rarity": "Unique"
+    },
+    "2b88a0f87fd5309418417842511ab488": {
+      "displayName": "Pelorosuchus",
+      "rarity": "Legendary"
+    },
+    "2d821a3ad47285e48a308d732f8c7418": {
+      "displayName": "Antarctopelta",
+      "rarity": "Epic"
+    },
+    "2d91bc2d858c59349aa848f8c2753a34": {
+      "displayName": "Giganotosaurus",
+      "rarity": "Epic"
+    },
+    "2d9989634d9cd934dad79c625ef1511e": {
+      "displayName": "Blonde",
+      "rarity": "Epic"
+    },
+    "2e1458c44194c384c8c98595932de338": {
+      "displayName": "Ghost",
+      "rarity": "Epic"
+    },
+    "2e53887e22696884a94c3bdd5337d21d": {
+      "displayName": "Pyroraptor",
+      "rarity": "Epic"
+    },
+    "2f5e6fcef06e6174190b437af60de697": {
+      "displayName": "Allodrigues",
+      "rarity": "Unique"
+    },
+    "2fa5416c32f4887408d9e3a27da5a316": {
+      "displayName": "Argentinosaurus",
+      "rarity": "Rare"
+    },
+    "3014ef47896ec9f4ab4e06218e67d180": {
+      "displayName": "Atrocodistis",
+      "rarity": "Unique"
+    },
+    "304a764fdeeebc648b9fee3d47a27d2a": {
+      "displayName": "Mortem Rex",
+      "rarity": "Apex"
+    },
+    "309bbde5fc1e3774dadf9805f72cdc4a": {
+      "displayName": "Tsintamoloch",
+      "rarity": "Unique"
+    },
+    "30aff76b8c4e2e24d94cfda23ae629de": {
+      "displayName": "Indonemys",
+      "rarity": "Apex"
+    },
+    "3129b8df0efbac749b1f577ead93831e": {
+      "displayName": "Deinocheirus",
+      "rarity": "Common"
+    },
+    "3173696858bb97e429a4bcd482906128": {
+      "displayName": "Saurolyth",
+      "rarity": "Epic"
+    },
+    "31a2ac65ea6ac5049b54dc280c24f500": {
+      "displayName": "Lambeosaurus",
+      "rarity": "Omega"
+    },
+    "31a70a01a9879b7468333c55998ff70a": {
+      "displayName": "Monolometrodon",
+      "rarity": "Legendary"
+    },
+    "32717e32b5c604643a690c7da40f276e": {
+      "displayName": "Smilonemys",
+      "rarity": "Unique"
+    },
+    "3330030a8e2341c448a8ec2c7b6f88d9": {
+      "displayName": "Indominus Rex Gen 2",
+      "rarity": "Epic"
+    },
+    "3338e282d20199947a2af1e7eb8f9378": {
+      "displayName": "Triceratops Gen 2",
+      "rarity": "Common"
+    },
+    "35871da7614b47249a75f1d099289a5d": {
+      "displayName": "Concavenator",
+      "rarity": "Epic"
+    },
+    "368379a64ff209d4ebd6e655f78838c6": {
+      "displayName": "Dilophoboa",
+      "rarity": "Legendary"
+    },
+    "3751c63a55f547749ad16baf8ab31353": {
+      "displayName": "Quetzorion",
+      "rarity": "Unique"
+    },
+    "37df62811eb927443b31a6629c550287": {
+      "displayName": "Shantrospinos",
+      "rarity": "Apex"
+    },
+    "38265086f24710f45a94f1b866d872fc": {
+      "displayName": "Doedicurus",
+      "rarity": "Rare"
+    },
+    "389e434ba3757094180ef4c47fa138ee": {
+      "displayName": "Becklejara",
+      "rarity": "Apex"
+    },
+    "39bda4ca7c7378f49a740921d88cc1a1": {
+      "displayName": "Gryganyth",
+      "rarity": "Apex"
+    },
+    "3a20d2321f98b14428c47692434cf193": {
+      "displayName": "Tsintamoth",
+      "rarity": "Legendary"
+    },
+    "3b2cf19d4ca58e44bb135505e61f0deb": {
+      "displayName": "Tyrannosaurus Rex Gen 2",
+      "rarity": "Rare"
+    },
+    "3b83065f4ab001948b42bdc9b17c9991": {
+      "displayName": "Deinomimus",
+      "rarity": "Unique"
+    },
+    "3b83967e961ef444184c30758eac14c7": {
+      "displayName": "Rebirth Spinosaurus",
+      "rarity": "Legendary"
+    },
+    "3d459ddc7db4ad543be1037e83ce5243": {
+      "displayName": "Geminideus",
+      "rarity": "Apex"
+    },
+    "3d7c6d458014103499bdaa1e1275fbd1": {
+      "displayName": "Nundasuchus",
+      "rarity": "Common"
+    },
+    "3e744968f2291d046a10de62bc032af0": {
+      "displayName": "Diplocaulus Gen 2",
+      "rarity": "Rare"
+    },
+    "3fcda063b30a4944eba65fac1d08392c": {
+      "displayName": "Arctalces",
+      "rarity": "Legendary"
+    },
+    "40876a1e9c94d934581b852593d59f04": {
+      "displayName": "Aerospinosaurus",
+      "rarity": "Unique"
+    },
+    "42553492c705abb45a55a99421eeb066": {
+      "displayName": "Sarcomantarx",
+      "rarity": "Unique"
+    },
+    "42953f4ac1882ea4c9854097680b0737": {
+      "displayName": "Arctops",
+      "rarity": "Rare"
+    },
+    "429889c8524ba73409cd45e29f4fa71c": {
+      "displayName": "Alanqa",
+      "rarity": "Epic"
+    },
+    "433c19487521c5645b5f83c6c8dc7757": {
+      "displayName": "Indoraptor Mattel",
+      "rarity": "Apex"
+    },
+    "436b729c9f9219747b428224aa19bf3b": {
+      "displayName": "Wuerhosaurus",
+      "rarity": "Rare"
+    },
+    "43e3ebca4d814ea46ab736f4b7312893": {
+      "displayName": "Red",
+      "rarity": "Epic"
+    },
+    "44113621dc1e6b44389a10deecf5404e": {
+      "displayName": "Delta",
+      "rarity": "Rare"
+    },
+    "44470e926f6ec0f4289413684dc7e203": {
+      "displayName": "Quetzalcoatlus",
+      "rarity": "Rare"
+    },
+    "44ec1b9095916674795d34bcafc444e3": {
+      "displayName": "Peloroplites",
+      "rarity": "Epic"
+    },
+    "454177e4aade7ea4bb87ee6cab53c736": {
+      "displayName": "Gallimimus",
+      "rarity": "Common"
+    },
+    "4562cd6ff1aef7b40b4e4eb006a0f741": {
+      "displayName": "Erlikosaurus",
+      "rarity": "Epic"
+    },
+    "45891df52628f8e4a993fda471484a77": {
+      "displayName": "Erlikospyx",
+      "rarity": "Unique"
+    },
+    "45f4a51647b11ca4db3b34b728f1d045": {
+      "displayName": "Arsionosaurus",
+      "rarity": "Epic"
+    },
+    "46dc925f6ab318a4ea440f2480249e7a": {
+      "displayName": "Tuoramoloch",
+      "rarity": "Unique"
+    },
+    "46fae393388f75c48ae9186844a3dd78": {
+      "displayName": "Australotitan",
+      "rarity": "Omega"
+    },
+    "479219bb57fbe264da16026914fcc9f2": {
+      "displayName": "Kentrosaurus",
+      "rarity": "Epic"
+    },
+    "47bcbc8930db1564fb71bd89a3625d81": {
+      "displayName": "Parasaurolophus",
+      "rarity": "Common"
+    },
+    "47bd99a4f70a9a04fb3b3fae4f0b4e42": {
+      "displayName": "Nominrex",
+      "rarity": "Apex"
+    },
+    "47e454ecdde3ce3419e5f6b7e60104ae": {
+      "displayName": "Brunette",
+      "rarity": "Epic"
+    },
+    "493c4688fef7c5141ba6c6d7ee1444f1": {
+      "displayName": "Acrocanthops",
+      "rarity": "Legendary"
+    },
+    "49c53a8221a50934da480e8f6c4d3e2b": {
+      "displayName": "Rajatholus",
+      "rarity": "Legendary"
+    },
+    "4ac90bde9e9c8e1478f779b7137f1fe5": {
+      "displayName": "Deinotherium",
+      "rarity": "Rare"
+    },
+    "4ae899e490d4f3b4e8ce8f20c3d4764f": {
+      "displayName": "Scaphognathus",
+      "rarity": "Rare"
+    },
+    "4b03733c879e5524eb9b59b62de7410c": {
+      "displayName": "Ichthyovenator",
+      "rarity": "Omega"
+    },
+    "4b0f9c051252002418b774be771d74f1": {
+      "displayName": "Dsungascorpios",
+      "rarity": "Unique"
+    },
+    "4b2d5c42e95822546b4bc5a3c76f4b34": {
+      "displayName": "Tapejara",
+      "rarity": "Rare"
+    },
+    "4cd447fc634707e43a125aa3b61cd3cd": {
+      "displayName": "Kelenken",
+      "rarity": "Rare"
+    },
+    "4e6da304f41d4b247b3203a427077a6b": {
+      "displayName": "Crichtonsaurus",
+      "rarity": "Rare"
+    },
+    "4f978a948c14f2d45a87de42e7f5154e": {
+      "displayName": "Monomimus",
+      "rarity": "Legendary"
+    },
+    "4f9c9f7535cb21440a24f2b8820a049e": {
+      "displayName": "Indotaurus",
+      "rarity": "Unique"
+    },
+    "508bbe592bcfa1649a55c57a579e8a76": {
+      "displayName": "Ornithomimus",
+      "rarity": "Rare"
+    },
+    "50f4fc0a24fea1d49835b73047c26c3f": {
+      "displayName": "Herrerasaurus",
+      "rarity": "Rare"
+    },
+    "51b01ef2b42be484da2e5188ec066cda": {
+      "displayName": "Dilophosaurus Gen 2",
+      "rarity": "Common"
+    },
+    "51e5bb3a58aab084eb23f840ff9ac5d9": {
+      "displayName": "Aenocyonyx",
+      "rarity": "Unique"
+    },
+    "521ab81061d6397449003514af38d51e": {
+      "displayName": "Ophiacodon",
+      "rarity": "Common"
+    },
+    "523bd639e590ddc42a3fb00de144ea62": {
+      "displayName": "Albertocevia",
+      "rarity": "Unique"
+    },
+    "530b86dbedefeeb4cad8e47a2242b380": {
+      "displayName": "Titanoboa",
+      "rarity": "Epic"
+    },
+    "53e4fc7837ffd764a9fd76c68c120a2f": {
+      "displayName": "Meiolania",
+      "rarity": "Rare"
+    },
+    "541d77d0521b1d24b9566f1b69787938": {
+      "displayName": "Purrolyth",
+      "rarity": "Rare"
+    },
+    "5430e2a294636d14f8e4444ab3445c7a": {
+      "displayName": "Animantarx",
+      "rarity": "Epic"
+    },
+    "546f7fa457026d84fb9ba0f7557d65fe": {
+      "displayName": "Sinoceratops",
+      "rarity": "Epic"
+    },
+    "54dbea8522258e64baeb51db03e1da04": {
+      "displayName": "Poukandactylus",
+      "rarity": "Unique"
+    },
+    "54e52398ee5ccf74fa956df25aed40e9": {
+      "displayName": "Aquilotae",
+      "rarity": "Apex"
+    },
+    "5548a83abe288ee4e84fb94346b33ed8": {
+      "displayName": "Inostherium",
+      "rarity": "Rare"
+    },
+    "5592c13332011b04e9575bf2a2afa2f6": {
+      "displayName": "Enteloceros",
+      "rarity": "Legendary"
+    },
+    "55f82efac48346d4bab258e009cf9c97": {
+      "displayName": "Paralititan",
+      "rarity": "Legendary"
+    },
+    "563cbf85b2ad7c14793c1771bd837001": {
+      "displayName": "Rebirth Spinosaurus Gen 2",
+      "rarity": "Legendary"
+    },
+    "5690dbf78f0e3e446af1c22844577129": {
+      "displayName": "Indolycan",
+      "rarity": "Apex"
+    },
+    "5729e879cb9200f4baffe72901f3636a": {
+      "displayName": "Troodoboa",
+      "rarity": "Unique"
+    },
+    "57d72c4c09f72cc44941c2e105f88479": {
+      "displayName": "Tyrannotor",
+      "rarity": "Apex"
+    },
+    "591a4055bf4b07340a16f70be9d7a3c5": {
+      "displayName": "Triceratops",
+      "rarity": "Rare"
+    },
+    "5995be6925626d749acc224b0e315507": {
+      "displayName": "Amargasaurus",
+      "rarity": "Rare"
+    },
+    "59a329ff930994f42976a5a667e95b63": {
+      "displayName": "Cervalces",
+      "rarity": "Rare"
+    },
+    "5ac2620be9814784c922feb912852737": {
+      "displayName": "Postosuchus",
+      "rarity": "Rare"
+    },
+    "5b30330445d776b4388ce090f48bfbbd": {
+      "displayName": "Rajadotholus",
+      "rarity": "Unique"
+    },
+    "5c9b0f7ddf07b9a42bdafb574012249d": {
+      "displayName": "Centrolophus Lux",
+      "rarity": "Apex"
+    },
+    "5dca40ec4ada02c4bb67a5a8e330cf04": {
+      "displayName": "Quetzaldraco",
+      "rarity": "Unique"
+    },
+    "5e01fe2a9675dc44aba4b1b46b86e1d6": {
+      "displayName": "Cryolophosaurus Mattel",
+      "rarity": "Unique"
+    },
+    "5ec94c56e2607d14bbd10eb423a8efde": {
+      "displayName": "Procerathomimus",
+      "rarity": "Epic"
+    },
+    "5efe0a09dbc157b478898d47dbf2663e": {
+      "displayName": "Majundaboa",
+      "rarity": "Epic"
+    },
+    "5f2a8fb45db0e3e40953da22d4a3f8ac": {
+      "displayName": "Coelotator",
+      "rarity": "Epic"
+    },
+    "5f593d526046bc44aa0292a81cde4a53": {
+      "displayName": "Proto Lux",
+      "rarity": "Apex"
+    },
+    "5f6669fd7a1cbdd4a86ecfb78803190b": {
+      "displayName": "Protoceratops",
+      "rarity": "Epic"
+    },
+    "5f82ac729cd35b7428366c1e5588aadc": {
+      "displayName": "Anurognathus",
+      "rarity": "Epic"
+    },
+    "5fe94c534e465bf469f503859027f70e": {
+      "displayName": "Andrewtops",
+      "rarity": "Unique"
+    },
+    "6080615abfbc40444afe86a400e656e5": {
+      "displayName": "Quetzalvexus",
+      "rarity": "Apex"
+    },
+    "61725a7cab2fbf34db5ddfc1e95ebcd1": {
+      "displayName": "Sarcorixis",
+      "rarity": "Epic"
+    },
+    "622d57c6131306e4799b8aa8548f97e9": {
+      "displayName": "Mammotherium",
+      "rarity": "Legendary"
+    },
+    "624a3e694f9a3bc4fb83413691a5f387": {
+      "displayName": "Tyrannosaur Buck",
+      "rarity": "Legendary"
+    },
+    "62a09135977444448a2ff7090369b2b0": {
+      "displayName": "Aquilamimus",
+      "rarity": "Epic"
+    },
+    "62cb51d16934c3040a9aa5d6ee49dfac": {
+      "displayName": "Raptoceras",
+      "rarity": "Unique"
+    },
+    "6451f6ac898fb0546876aa2f46bc90a1": {
+      "displayName": "Andrewtodon",
+      "rarity": "Epic"
+    },
+    "6483702df0f2dc840bce98851a1d0da9": {
+      "displayName": "Spinotahraptor",
+      "rarity": "Epic"
+    },
+    "648e585b2eadb414196da4e8caf19523": {
+      "displayName": "Monolomoth",
+      "rarity": "Apex"
+    },
+    "64f50f0a03c0ede4f83f1adcad7c8b21": {
+      "displayName": "Imperatosuchus",
+      "rarity": "Apex"
+    },
+    "64f9c622c82c96449875cf45546a84c8": {
+      "displayName": "Alloraptor",
+      "rarity": "Legendary"
+    },
+    "657b30acc238d9148a0b29d0c2600782": {
+      "displayName": "Nanophosaurus",
+      "rarity": "Legendary"
+    },
+    "65813c68685622843a7a1270c62c5330": {
+      "displayName": "Ardontosaurus",
+      "rarity": "Legendary"
+    },
+    "65a4faa89e1c48d4d83dcfbcf6afee41": {
+      "displayName": "Skorpiodactylus",
+      "rarity": "Legendary"
+    },
+    "65f5311186c9ff74d93667b653125b2b": {
+      "displayName": "Shantungosaurus",
+      "rarity": "Common"
+    },
+    "661c35c210ce0db448e785ad522b504d": {
+      "displayName": "Megistocurus",
+      "rarity": "Legendary"
+    },
+    "6642edd926cc9d849a45695e3a41cd7c": {
+      "displayName": "Thylaconyx",
+      "rarity": "Legendary"
+    },
+    "66a2cbda6f34d5b43a009b0b57bcc11b": {
+      "displayName": "Ailurarctos",
+      "rarity": "Epic"
+    },
+    "6711d93d0cfe5e846b474f9513ade9e8": {
+      "displayName": "Trykovenator",
+      "rarity": "Apex"
+    },
+    "677b4e981a2a0514c9709baef82d0919": {
+      "displayName": "Pachycephalosaurus",
+      "rarity": "Epic"
+    },
+    "68174d1dd21a22241b0a2f6369305c67": {
+      "displayName": "Moros Intrepidus",
+      "rarity": "Epic"
+    },
+    "686ec950b42eef94682cbab51813b22e": {
+      "displayName": "Rajasaurus",
+      "rarity": "Epic"
+    },
+    "69601b5c3cd804f4eb5d805cfc4c0d05": {
+      "displayName": "Diplocaulus",
+      "rarity": "Common"
+    },
+    "69797fb81d8b6ff47bd9addc07b0d0f2": {
+      "displayName": "Lystrosavis",
+      "rarity": "Unique"
+    },
+    "6a41af26f34fccb449799087d8031e92": {
+      "displayName": "Andrewsarchus",
+      "rarity": "Rare"
+    },
+    "6b89cfc1493ccce4597ad43ae77fa7c4": {
+      "displayName": "Segnotherisaurus",
+      "rarity": "Unique"
+    },
+    "6bdc58f3e911fb64991918f949677de3": {
+      "displayName": "Stygidaryx",
+      "rarity": "Unique"
+    },
+    "6cd31f7a733748d4e9d2acf8d5f4140b": {
+      "displayName": "Allosaurus",
+      "rarity": "Common"
+    },
+    "6cefdc8dd9a0981458c6770cbdf88f37": {
+      "displayName": "Atrocimoloch",
+      "rarity": "Unique"
+    },
+    "6dc4adae2e9d4754d85bbe3269caa634": {
+      "displayName": "Diorajasaur",
+      "rarity": "Unique"
+    },
+    "6de804984b44fb5469d57aa0cd8bd3c6": {
+      "displayName": "Stygimoloch Gen 2",
+      "rarity": "Common"
+    },
+    "6df677f9b5d2130409b379d0673b5289": {
+      "displayName": "Nyctosaurus",
+      "rarity": "Legendary"
+    },
+    "6e0a14e7ee9638a489fd789ab338c39a": {
+      "displayName": "Monolophosaurus Gen 2",
+      "rarity": "Common"
+    },
+    "6e24016758a3a144cb7535c5724dc735": {
+      "displayName": "Irritator Gen 2",
+      "rarity": "Common"
+    },
+    "6f1865ca61d57df4eaf019eb857faf52": {
+      "displayName": "Quetzalcoatlus Gen 2",
+      "rarity": "Epic"
+    },
+    "6fbfb292379b1a249b7d7cf1e4bcf18d": {
+      "displayName": "Thylos Intrepidus",
+      "rarity": "Unique"
+    },
+    "6fcebfed6790bc848b9bbf5c50c8e420": {
+      "displayName": "Spinosaurus Aegyptiacus",
+      "rarity": "Omega"
+    },
+    "720e7958b13ebbb4f9f1939a1c2e4901": {
+      "displayName": "Centrosaurus",
+      "rarity": "Common"
+    },
+    "72d8dd9812549fe439a4eae20023aa15": {
+      "displayName": "Tyrannosaurus Rex",
+      "rarity": "Epic"
+    },
+    "7326345d3aad3874cb2a2b9f812a6589": {
+      "displayName": "Centroceratops",
+      "rarity": "Legendary"
+    },
+    "73a6e80799790a940941bd4d2780e498": {
+      "displayName": "Phorusrhacos",
+      "rarity": "Common"
+    },
+    "748e938a307e7804fada613684789d96": {
+      "displayName": "Haast Maximus",
+      "rarity": "Apex"
+    },
+    "76793a344ef75d64d9f4a76b09b0524a": {
+      "displayName": "Bajatonodon",
+      "rarity": "Legendary"
+    },
+    "76be3c728389e33418e10ab4ad462c2c": {
+      "displayName": "Compsognathus",
+      "rarity": "Epic"
+    },
+    "76ef806c06264fa4d90090f90b8a39e0": {
+      "displayName": "Titanosaurus",
+      "rarity": "Epic"
+    },
+    "788dcb3260710214ca81ea153c41f9c3": {
+      "displayName": "Koolatrodon",
+      "rarity": "Epic"
+    },
+    "78fb9b9e5c2a7b6438326d1ec768e349": {
+      "displayName": "Dilophosaurus",
+      "rarity": "Rare"
+    },
+    "798a248239e19d248b536bd0d8d7048a": {
+      "displayName": "Struthiomimus",
+      "rarity": "Epic"
+    },
+    "7a893f256f06fdc4995d6d3b04da58ea": {
+      "displayName": "Refrenantem",
+      "rarity": "Apex"
+    },
+    "7a9b3765e40114c47a12751d6fa4bbc1": {
+      "displayName": "Deinonychus",
+      "rarity": "Common"
+    },
+    "7d489ac1c78a4334aacfe21ebd80c6a1": {
+      "displayName": "Lythronax",
+      "rarity": "Common"
+    },
+    "7ecb7ddde82890d4383a4dd12ab1d383": {
+      "displayName": "Amphicyon",
+      "rarity": "Common"
+    },
+    "7f2212edc5eb5a74585ed6ab4acea58d": {
+      "displayName": "Miragaia",
+      "rarity": "Common"
+    },
+    "7fac9afb99c0c95418972a80daa074fe": {
+      "displayName": "Albertospinos",
+      "rarity": "Unique"
+    },
+    "7fe9ecc0ff41e1647a4402cbc3397fb7": {
+      "displayName": "Erlikosaurus Gen 2",
+      "rarity": "Rare"
+    },
+    "7ffea51cfb5d7fa459ed795876145e7f": {
+      "displayName": "Spinoconstrictor",
+      "rarity": "Unique"
+    },
+    "8057981b22519eb41b6ca7bcdef5a89d": {
+      "displayName": "Diplovenator",
+      "rarity": "Legendary"
+    },
+    "8077cedef8c07e8458728e5fc5ab1ab6": {
+      "displayName": "Stegoceratops",
+      "rarity": "Epic"
+    },
+    "817967fb822d4a647898c56ed72c748a": {
+      "displayName": "Dimodactylus",
+      "rarity": "Epic"
+    },
+    "81959a160ed3226478db8b61a63c2bf8": {
+      "displayName": "Aerotitan",
+      "rarity": "Epic"
+    },
+    "82c0e420037268d498d04fe85ed2caec": {
+      "displayName": "Ampelorex",
+      "rarity": "Unique"
+    },
+    "84aa26f2d7ed70c46ac58e8572849f29": {
+      "displayName": "Becklerizaurus",
+      "rarity": "Apex"
+    },
+    "8585fabe41a451949ac20d0840fa3103": {
+      "displayName": "Koolasuchus",
+      "rarity": "Epic"
+    },
+    "85dee796dad37814693adc6bd7d708c6": {
+      "displayName": "Stygimoloch",
+      "rarity": "Epic"
+    },
+    "8687b914b48a7534b98bbc3b6a8dc0d5": {
+      "displayName": "Ovylenken",
+      "rarity": "Unique"
+    },
+    "889f04ace8baf2644be37a975789a368": {
+      "displayName": "Edmontosaurus",
+      "rarity": "Rare"
+    },
+    "89087f85857828b40a23ba0f508a28b2": {
+      "displayName": "Monkeydactyl",
+      "rarity": "Legendary"
+    },
+    "896141c7f6a665344b8c71f86d536570": {
+      "displayName": "Arctovasilas",
+      "rarity": "Apex"
+    },
+    "8b45f111947427343be2a3b8d8ff83d2": {
+      "displayName": "Erlidraco",
+      "rarity": "Legendary"
+    },
+    "8c6f62f87dfb6274d8a74f603697bf85": {
+      "displayName": "Antarctovenator",
+      "rarity": "Unique"
+    },
+    "8ca67e4acc13fcd4789e850eacce7944": {
+      "displayName": "Concatoloch",
+      "rarity": "Apex"
+    },
+    "8d061b54eb43ad342ac810830a40b618": {
+      "displayName": "Estemmenosuchus",
+      "rarity": "Unique"
+    },
+    "8d35fbc2f436d4c45b37a9d97abf2a74": {
+      "displayName": "Compsoraptor",
+      "rarity": "Unique"
+    },
+    "8f12c63189bd9eb4e89c2b4e3f2f73cc": {
+      "displayName": "Nodosaurus",
+      "rarity": "Rare"
+    },
+    "8f59f30caecdc924ca6b54edbfaf05ec": {
+      "displayName": "Koreanosaurus",
+      "rarity": "Omega"
+    },
+    "8f61fafa11bf99749b498f85b69986e4": {
+      "displayName": "Scutophicyon",
+      "rarity": "Legendary"
+    },
+    "8fd08015b11effd408293867e54bc5f2": {
+      "displayName": "Purutaurus",
+      "rarity": "Epic"
+    },
+    "9045d72057fcdf64384a37c07cc51497": {
+      "displayName": "Monkeyondactylus",
+      "rarity": "Unique"
+    },
+    "9073b03c97c06b04aa0de4331827ffca": {
+      "displayName": "Protonodon",
+      "rarity": "Unique"
+    },
+    "90839bac8e9de67419103f3a09395bc8": {
+      "displayName": "Paramoloch",
+      "rarity": "Legendary"
+    },
+    "9096400e9c9cc3c44b502ea5764d634c": {
+      "displayName": "Phorurex",
+      "rarity": "Unique"
+    },
+    "90db44c7a2d8e0443ae87a0c9a41a01c": {
+      "displayName": "Paralitrosaurus",
+      "rarity": "Unique"
+    },
+    "91fb55ed02836ac4c92510b8689f6d9c": {
+      "displayName": "Diloranosaurus",
+      "rarity": "Legendary"
+    },
+    "931e1d48cd6bad94d8dfdb746a215f17": {
+      "displayName": "Ankyntrosaurus",
+      "rarity": "Legendary"
+    },
+    "9415a705477e11744ad4a4842bf71d09": {
+      "displayName": "Secodontosaurus",
+      "rarity": "Epic"
+    },
+    "948e6d21d39e3224586489aca7bfc505": {
+      "displayName": "Crichtomoloch",
+      "rarity": "Unique"
+    },
+    "94ee795b9e5f9a947beb50431a712a27": {
+      "displayName": "Hadros Lux",
+      "rarity": "Apex"
+    },
+    "969c272845dd125428e28db6a755ffe3": {
+      "displayName": "Aquicomilus",
+      "rarity": "Legendary"
+    },
+    "96ba887105685a44cb7e1ce3251e94dc": {
+      "displayName": "Tsintaosaurus",
+      "rarity": "Epic"
+    },
+    "97b786e876a008142af77c376ca1f39d": {
+      "displayName": "Pyroraptor Gen 2",
+      "rarity": "Rare"
+    },
+    "97c0fdbfac99d2a4284fad21e82fbc82": {
+      "displayName": "Echo",
+      "rarity": "Rare"
+    },
+    "97e2864cded0da744adf3bed3b450304": {
+      "displayName": "Beta",
+      "rarity": "Epic"
+    },
+    "9877b13c0255d2345bfa0cc183968767": {
+      "displayName": "Grylenken",
+      "rarity": "Legendary"
+    },
+    "98bef2da5dbd8e74e9161ed68b52742c": {
+      "displayName": "Carnotarkus",
+      "rarity": "Legendary"
+    },
+    "99590fe559ae06e4ab7376f48723a7c1": {
+      "displayName": "Rodrigues Solitaire",
+      "rarity": "Rare"
+    },
+    "997ae79d2f5ab0d4fb1aa51053d0f301": {
+      "displayName": "Compsognathus Gen 2",
+      "rarity": "Rare"
+    },
+    "99d1ae6669555724588d98afa1a91491": {
+      "displayName": "Tupandactylus",
+      "rarity": "Rare"
+    },
+    "9a2adfd7172fe9046be41d0204bc3f3b": {
+      "displayName": "Sphaerotholus",
+      "rarity": "Rare"
+    },
+    "9a44929418628dc40b8f0597234fedc1": {
+      "displayName": "Yuxisaurus",
+      "rarity": "Omega"
+    },
+    "9c5be39611a49cf47a5fa09777a2ed1b": {
+      "displayName": "Diplotator",
+      "rarity": "Rare"
+    },
+    "9ccf6f23c07255f4a877c7de9e8c5b08": {
+      "displayName": "Distortus Rex",
+      "rarity": "Unique"
+    },
+    "9d223decc1c9b6f44ac56659a57b7128": {
+      "displayName": "Rebirth Raptor",
+      "rarity": "Legendary"
+    },
+    "9d285d06d6483e84489063fc3804f548": {
+      "displayName": "Beelzebufo",
+      "rarity": "Epic"
+    },
+    "9f5bf52ed2e4974428342dbdcafa7914": {
+      "displayName": "Scorpios Rex Gen 3",
+      "rarity": "Unique"
+    },
+    "9fb748f231580d948a0d2bb7b274f3f7": {
+      "displayName": "Smilodon",
+      "rarity": "Epic"
+    },
+    "9fe9f4dcf805d1547972481b793cdeac": {
+      "displayName": "Kaprosuchus",
+      "rarity": "Rare"
+    },
+    "a06552e2a561b0e4aa200660ebe99f2f": {
+      "displayName": "Paralidactylus",
+      "rarity": "Apex"
+    },
+    "a0dd183293063e34186a7cd6d2e40d6e": {
+      "displayName": "Dracoceratops",
+      "rarity": "Legendary"
+    },
+    "a0ed4c47d5a424f4bac071aec0daf3e4": {
+      "displayName": "Shantunrax",
+      "rarity": "Legendary"
+    },
+    "a10aa0f550919cc458b069af09633e9f": {
+      "displayName": "Argenteryx",
+      "rarity": "Epic"
+    },
+    "a159263dd68370b49b78d9678366db43": {
+      "displayName": "Ceranosaurus",
+      "rarity": "Apex"
+    },
+    "a1954a30d464c904e9b7b5b187105bf5": {
+      "displayName": "Utasinoraptor",
+      "rarity": "Legendary"
+    },
+    "a1a1798beb90b2440b934e3d31c3eb56": {
+      "displayName": "Panthera",
+      "rarity": "Epic"
+    },
+    "a27ab798c90a027419fed86d0d1eb6ea": {
+      "displayName": "Tyrannosaur Doe",
+      "rarity": "Legendary"
+    },
+    "a4008e909db160d46a8a7bbbfd67bc6c": {
+      "displayName": "Pteranokyrie",
+      "rarity": "Apex"
+    },
+    "a4315afabb4375e498e8d696cc7dad53": {
+      "displayName": "Entelochops",
+      "rarity": "Epic"
+    },
+    "a5040958687504c4db5f6bb5523b1911": {
+      "displayName": "Entelomoth",
+      "rarity": "Legendary"
+    },
+    "a528cecc3c8b5b64c967d3fda04c8b59": {
+      "displayName": "Eremotherium",
+      "rarity": "Common"
+    },
+    "a56b4112a3ac6aa469160cc23064fa9c": {
+      "displayName": "Monostegotops",
+      "rarity": "Legendary"
+    },
+    "a68c3f046ad208240bfcb9f98a210e85": {
+      "displayName": "Tryostronix",
+      "rarity": "Legendary"
+    },
+    "a69ad518bb6b4ca4cabfe8fcdf73413e": {
+      "displayName": "Ankylodactylus",
+      "rarity": "Legendary"
+    },
+    "a719dbea3ae40914392331044d5f99e9": {
+      "displayName": "Skorpiovenator",
+      "rarity": "Rare"
+    },
+    "a760348a1b0f009459b171dd159d21d4": {
+      "displayName": "Darwinopterus",
+      "rarity": "Epic"
+    },
+    "a8b0f2c14adc03545b83416a50649540": {
+      "displayName": "Velosrhacos",
+      "rarity": "Epic"
+    },
+    "a901418c746c93a4ea050b6c27b4ccb0": {
+      "displayName": "Indominus Rex",
+      "rarity": "Legendary"
+    },
+    "a9232b3721137054eaa4e882c821b8a2": {
+      "displayName": "Magnapyritor",
+      "rarity": "Unique"
+    },
+    "a9b052169a2ad534eb4cf3956f73e9dd": {
+      "displayName": "Gryposuchus",
+      "rarity": "Epic"
+    },
+    "aa4a60e30e11e0a4bac18daba95f16b3": {
+      "displayName": "Spinosaurus Gen 2",
+      "rarity": "Epic"
+    },
+    "aaa107ef16e36cb49834f22ed855c8b0": {
+      "displayName": "Vectispinus",
+      "rarity": "Omega"
+    },
+    "aac8e13c69bc40a459759d5418b16d09": {
+      "displayName": "Alacranix",
+      "rarity": "Apex"
+    },
+    "aacbb9d028ffb314a9c366d263e9c337": {
+      "displayName": "Brontotherium",
+      "rarity": "Common"
+    },
+    "aaf6d66cec3d0eb40a883041ed0cd1b4": {
+      "displayName": "Fukuimimus",
+      "rarity": "Legendary"
+    },
+    "ab880cbde7d78b846a0be67cdc01532b": {
+      "displayName": "Styracosaurus Lux",
+      "rarity": "Unique"
+    },
+    "ac40994e5f37b4e4785ba8ec3e9b928e": {
+      "displayName": "Arambourgiania",
+      "rarity": "Rare"
+    },
+    "ac591537cd4d40b4c95c8bae3f48c577": {
+      "displayName": "Graciliraptor",
+      "rarity": "Legendary"
+    },
+    "ac6873467c67283459cf0b8994bd986f": {
+      "displayName": "Aliorasuchus",
+      "rarity": "Unique"
+    },
+    "ac6fdb4df69061d42bef045a02be0cfc": {
+      "displayName": "Maiasaura",
+      "rarity": "Epic"
+    },
+    "ac81646838a9efd47a81963bd0cc3e16": {
+      "displayName": "Koolasuchus Gen 2",
+      "rarity": "Rare"
+    },
+    "ad1700f5d94c5c2448e997a199319b06": {
+      "displayName": "Dracorex",
+      "rarity": "Rare"
+    },
+    "ad1e4b6d797a7a046be77dc22e1912d0": {
+      "displayName": "Hatzegopteryx",
+      "rarity": "Common"
+    },
+    "adb96941df09ebd48b967e467f4bb097": {
+      "displayName": "Dsungaia",
+      "rarity": "Legendary"
+    },
+    "ae6a6d54fc45ee74194765c0bf74883f": {
+      "displayName": "Spinoceratops",
+      "rarity": "Legendary"
+    },
+    "ae7e193e6e138794d9c77f26ccf9bd7f": {
+      "displayName": "Junior",
+      "rarity": "Unique"
+    },
+    "aea9362d06602fb4e9ffba6d343423b2": {
+      "displayName": "Coelocephalus",
+      "rarity": "Apex"
+    },
+    "af4756a308676be4094406566204bb55": {
+      "displayName": "Sonorasaurus",
+      "rarity": "Epic"
+    },
+    "b02ca4f3625b0cd48a4b91d2bd271432": {
+      "displayName": "Indoraptor Gen 2",
+      "rarity": "Legendary"
+    },
+    "b10f5d3c4a4dfc04a9776dfb194402d5": {
+      "displayName": "Dire Wolf",
+      "rarity": "Rare"
+    },
+    "b2740366f7f7d9b49a866c909f3d2af6": {
+      "displayName": "Sinraptor",
+      "rarity": "Omega"
+    },
+    "b2870fb42207ed349b3965d83f7da9a3": {
+      "displayName": "Alankylosaurus",
+      "rarity": "Legendary"
+    },
+    "b2938ce7d7e8a524a959333b47a8be31": {
+      "displayName": "Stegoceras",
+      "rarity": "Epic"
+    },
+    "b3470a9f959bdee4bb89d138566765ad": {
+      "displayName": "Sarcosuchus",
+      "rarity": "Common"
+    },
+    "b4143e22c38406148b311bcb8cec7a2a": {
+      "displayName": "Haast Eagle Gen 2",
+      "rarity": "Rare"
+    },
+    "b4b0192f5fbaa8442b022ca626d08732": {
+      "displayName": "Koolatrax",
+      "rarity": "Unique"
+    },
+    "b51ac6f2478c8ec4f9dbbd4af7153f3b": {
+      "displayName": "Concatosaurus",
+      "rarity": "Unique"
+    },
+    "b5807fa4599456f46b5a796b219af064": {
+      "displayName": "Smilocephalosaurus",
+      "rarity": "Legendary"
+    },
+    "b5e609d3ba4a66f49b17a408fffef185": {
+      "displayName": "Apatoceratops",
+      "rarity": "Unique"
+    },
+    "b6583cfe9964c35419a3ed339995354b": {
+      "displayName": "Dakotacurus",
+      "rarity": "Unique"
+    },
+    "b68b7d1dc705b7c4daaccb5be48c453d": {
+      "displayName": "Scaphotator",
+      "rarity": "Epic"
+    },
+    "b7a57a40a5c2b624e85d229edea10a9c": {
+      "displayName": "Baryonyx",
+      "rarity": "Epic"
+    },
+    "b7ab6d0a62d26ff4caacad07a3417f08": {
+      "displayName": "Compsocaulus",
+      "rarity": "Unique"
+    },
+    "b7d3e356007be5c4b9ab994faee5eb65": {
+      "displayName": "Aquiraptor",
+      "rarity": "Unique"
+    },
+    "b7db239f7c9ac424bbcded62490d6ff3": {
+      "displayName": "Entelodon",
+      "rarity": "Rare"
+    },
+    "b7fb03fe791b7324c9848bb86e09d6aa": {
+      "displayName": "Grypolyth",
+      "rarity": "Unique"
+    },
+    "b81232d8b7f2eae46b43b7bf235fba76": {
+      "displayName": "Oviraptor Gen 2",
+      "rarity": "Epic"
+    },
+    "b84c32aa6bc9bc445a3046da47a75a0d": {
+      "displayName": "Rinchenia",
+      "rarity": "Epic"
+    },
+    "b8bba532c935e1c4799353934de57eb9": {
+      "displayName": "Phorusaura",
+      "rarity": "Legendary"
+    },
+    "b9d6a7e1f4138454c870e8a06ef08a58": {
+      "displayName": "Keratoporcus",
+      "rarity": "Legendary"
+    },
+    "ba7ceebaa8017a54fb49800dc246622a": {
+      "displayName": "Sinosauropteryx",
+      "rarity": "Common"
+    },
+    "baa1535af3c821947ae4930247758553": {
+      "displayName": "Dilozorion",
+      "rarity": "Apex"
+    },
+    "bb682affc6b30484a8d27160f67bb943": {
+      "displayName": "Tyrannodactylus",
+      "rarity": "Unique"
+    },
+    "bb7fa80fe64e17c4695a083b5d21a64b": {
+      "displayName": "Alioramus",
+      "rarity": "Epic"
+    },
+    "bc0ca5c0cca152241b65c08b47ccc279": {
+      "displayName": "Preondactylus",
+      "rarity": "Rare"
+    },
+    "bc15b8ea8518eb649a0e478a8a75c3d8": {
+      "displayName": "Eremoceros",
+      "rarity": "Legendary"
+    },
+    "bc48ca95d387d2a47b696cf4e7db07dd": {
+      "displayName": "Megatyrannus",
+      "rarity": "Apex"
+    },
+    "bc569affb0bdd784d9a5f05d9a9c5801": {
+      "displayName": "Geosternbergia",
+      "rarity": "Omega"
+    },
+    "bcb5598b0334ffe4db3f698426e7fc3e": {
+      "displayName": "Allosinosaurus",
+      "rarity": "Legendary"
+    },
+    "be6573c8949153c4e8f71da6bae709cd": {
+      "displayName": "Stegodeus",
+      "rarity": "Legendary"
+    },
+    "bec48751a2262cc4db6a3784058441ee": {
+      "displayName": "Pyrosuchus",
+      "rarity": "Legendary"
+    },
+    "bfb6ba341d674d44aa5c034398c69b64": {
+      "displayName": "Proceratosaurus",
+      "rarity": "Rare"
+    },
+    "bfe0bd511cc404b46aac0b3de55a708e": {
+      "displayName": "Monolophosaurus",
+      "rarity": "Epic"
+    },
+    "c045254597be6c540a69bcfae3bc9c0c": {
+      "displayName": "Lystrosaurus",
+      "rarity": "Epic"
+    },
+    "c04704d5cd102144a92fee784f5ac06c": {
+      "displayName": "Purussaurus Gen 2",
+      "rarity": "Common"
+    },
+    "c29dfd6ccbe9e6a4983bcad8b16b0755": {
+      "displayName": "Giraffatitan",
+      "rarity": "Rare"
+    },
+    "c30da5a0ea06c4c4e8132c6a25a13bfb": {
+      "displayName": "Troodon",
+      "rarity": "Epic"
+    },
+    "c336f78189584884ab155b6023756d6c": {
+      "displayName": "Panthera Blytheae",
+      "rarity": "Legendary"
+    },
+    "c3753736876227540a4adc100d997f85": {
+      "displayName": "Aquignathus",
+      "rarity": "Apex"
+    },
+    "c3e954f744ac0b142864bd7d034dac64": {
+      "displayName": "Alankyloceratops",
+      "rarity": "Unique"
+    },
+    "c42b5cb0bc830e14aa861c37b1bf0f65": {
+      "displayName": "Titanotarkus",
+      "rarity": "Unique"
+    },
+    "c46a6c9f67e312145bb688ad6a237616": {
+      "displayName": "Saurornitholestes",
+      "rarity": "Common"
+    },
+    "c4c4064898c1773479d10909860dad89": {
+      "displayName": "Tuojiangosaurus",
+      "rarity": "Rare"
+    },
+    "c548cf8f4a9aac14e86987f4bd8c028b": {
+      "displayName": "Dracorex Gen 2",
+      "rarity": "Common"
+    },
+    "c5f6b4359b1e272438603800991fc4c5": {
+      "displayName": "Scelidosaurus",
+      "rarity": "Legendary"
+    },
+    "c646259b15d108a408d7e474212a9afd": {
+      "displayName": "Aquilops",
+      "rarity": "Rare"
+    },
+    "c706ca51760945744be6d0b1c82007d0": {
+      "displayName": "Titanotor",
+      "rarity": "Legendary"
+    },
+    "c7f5952be9fd1d0429b1497697d2ae3f": {
+      "displayName": "Rebirth T. Rex",
+      "rarity": "Legendary"
+    },
+    "c820f6f982697214780ebdb5b0e25eb4": {
+      "displayName": "Euoplocephalus",
+      "rarity": "Common"
+    },
+    "c83c81451f2a1bd4682f8d85e6460f0b": {
+      "displayName": "Therizinosaurus",
+      "rarity": "Rare"
+    },
+    "c884d7037b51a1f4c853166758bf6002": {
+      "displayName": "Scutosaurus",
+      "rarity": "Epic"
+    },
+    "c889c7b9c356d2a47a83a328dbdccb89": {
+      "displayName": "Carbonemys",
+      "rarity": "Epic"
+    },
+    "c897c6506e36d664091b6292151ffb33": {
+      "displayName": "Dracovenator",
+      "rarity": "Unique"
+    },
+    "c9d14d81622f5b54d82f86c48904bd46": {
+      "displayName": "Herranotor",
+      "rarity": "Unique"
+    },
+    "cb087bec488e3024aa36642721495bac": {
+      "displayName": "Scorpios Rex",
+      "rarity": "Legendary"
+    },
+    "cb2f655c6882571498dc3527b360f07d": {
+      "displayName": "Spinotops",
+      "rarity": "Apex"
+    },
+    "cb39565c292ddab45b334736163eb0fa": {
+      "displayName": "Segnoraptor",
+      "rarity": "Legendary"
+    },
+    "cbcfb363fa1ce504eb50dc48fa524824": {
+      "displayName": "Masiakasaurus",
+      "rarity": "Omega"
+    },
+    "cbfdb4369a75059448eb2cb47099b533": {
+      "displayName": "Parasaurolophus Lux",
+      "rarity": "Legendary"
+    },
+    "cc8927ca645c5ca4fb3be68359430eb5": {
+      "displayName": "Spinonyx",
+      "rarity": "Legendary"
+    },
+    "cd33b131fcab16b4ab764abb55233e64": {
+      "displayName": "Gorgosuchus",
+      "rarity": "Epic"
+    },
+    "cd9e78a1e7e09864e967f68bd6b3584f": {
+      "displayName": "Glyptoceras",
+      "rarity": "Legendary"
+    },
+    "cde4beed609fb884897b2e5eea8f5c84": {
+      "displayName": "Acrocanthosaurus",
+      "rarity": "Epic"
+    },
+    "cea48b15524d54b4d95a0bab2a25c84f": {
+      "displayName": "Ankylosaurus Gen 2",
+      "rarity": "Common"
+    },
+    "cebba8fd26bbb4449a674c00cc71f292": {
+      "displayName": "Utahraptor",
+      "rarity": "Rare"
+    },
+    "cefdb11922bf9b845acd0b4edb911992": {
+      "displayName": "Nodopatosaurus",
+      "rarity": "Epic"
+    },
+    "cf448c755f27e25409bfbf320639fd19": {
+      "displayName": "Einiosaurus",
+      "rarity": "Common"
+    },
+    "cff9e035a5f9c0d49a5a0981d4af3fe3": {
+      "displayName": "Segnosaurus",
+      "rarity": "Omega"
+    },
+    "d02b9b6c51f48fa4893d75a1ea3ae138": {
+      "displayName": "Elasmotherium",
+      "rarity": "Rare"
+    },
+    "d04120d62eee3574aa714724580e2a90": {
+      "displayName": "Pantherator",
+      "rarity": "Unique"
+    },
+    "d04e1f18074eb3f4b94f792671f4b50a": {
+      "displayName": "Koolabourgiana",
+      "rarity": "Legendary"
+    },
+    "d088b8ab9bf34d0468aa2576baf7f0d3": {
+      "displayName": "Tenontosaurus",
+      "rarity": "Rare"
+    },
+    "d154aea023766364f90979dd961e75f5": {
+      "displayName": "Microraptor",
+      "rarity": "Epic"
+    },
+    "d1f0d687b433300449a7f859dfa26d50": {
+      "displayName": "Stegosaurus",
+      "rarity": "Common"
+    },
+    "d1f79384089f36d47a3a2347698dd92e": {
+      "displayName": "Rebirth Quetzalcoatlus",
+      "rarity": "Legendary"
+    },
+    "d27c5d8a185fa9e46bb9d24ed4794f7f": {
+      "displayName": "Nanotyrannus",
+      "rarity": "Rare"
+    },
+    "d28dfb1d7e2bb274eab671ead2464d1d": {
+      "displayName": "Purussaurus",
+      "rarity": "Rare"
+    },
+    "d29878f2dc9b124419c5836b0713c740": {
+      "displayName": "Pteraquetzal",
+      "rarity": "Legendary"
+    },
+    "d2b7c73e53b0c794daf8ece3e5eb31dc": {
+      "displayName": "Thoradolosaur",
+      "rarity": "Unique"
+    },
+    "d337ef5cd87994542a9a76e2f43c258e": {
+      "displayName": "Bumpy",
+      "rarity": "Epic"
+    },
+    "d45b390819e2062449c77fbeacf9cc97": {
+      "displayName": "Megalosaurus",
+      "rarity": "Rare"
+    },
+    "d474711cadebecc419ce434ff5238dd2": {
+      "displayName": "Argentavis",
+      "rarity": "Rare"
+    },
+    "d482657c2d972cb4484980eaeb389d0f": {
+      "displayName": "Nodopatotitan",
+      "rarity": "Legendary"
+    },
+    "d48314e890bc00d49953b5d570dc28fa": {
+      "displayName": "Dimetrodon",
+      "rarity": "Rare"
+    },
+    "d57e6fc25fe967446a914c8137093875": {
+      "displayName": "Angel",
+      "rarity": "Legendary"
+    },
+    "d5c3e425f4caa22498b512eb5105bbd6": {
+      "displayName": "Fukuiraptor",
+      "rarity": "Omega"
+    },
+    "d68154523709065428673ee33dca2e13": {
+      "displayName": "Velociraptor",
+      "rarity": "Common"
+    },
+    "d71fe4d219cfc2d4aa646fd805413290": {
+      "displayName": "Pulmonoscorpius",
+      "rarity": "Epic"
+    },
+    "d856405f01722b54b8184e20937dd906": {
+      "displayName": "Eucladoceros",
+      "rarity": "Epic"
+    },
+    "d932ff5ef549bc641bb4e57d8f6da88c": {
+      "displayName": "Oviraptor",
+      "rarity": "Rare"
+    },
+    "d937517a405d4cd44853c4e96bd68552": {
+      "displayName": "Dracoceratosaurus",
+      "rarity": "Unique"
+    },
+    "d985b207034fb51448f10483f883c2c1": {
+      "displayName": "Dimetrodon",
+      "rarity": "Rare"
+    },
+    "d98734df24e53c149973e3d9ed0fa208": {
+      "displayName": "Tenontorex",
+      "rarity": "Unique"
+    },
+    "d99182289ddf53c4d867dbaf9fc74015": {
+      "displayName": "Borealopelta",
+      "rarity": "Omega"
+    },
+    "d9a6705b360952549ad9fef5d21d058c": {
+      "displayName": "Nyctopteryx",
+      "rarity": "Unique"
+    },
+    "d9b0a25502429834ab413e3fa1b0ccf4": {
+      "displayName": "Tanycolagreus",
+      "rarity": "Common"
+    },
+    "dba90498a0587734995b51adb400ea62": {
+      "displayName": "Big Eatie",
+      "rarity": "Omega"
+    },
+    "dca66757968c00044a1645b78a171c58": {
+      "displayName": "Entelolania",
+      "rarity": "Unique"
+    },
+    "dcc115bc84cf0854497c741474a43734": {
+      "displayName": "Toro",
+      "rarity": "Omega"
+    },
+    "dd17583489eaf0f408318eee0dfc80dd": {
+      "displayName": "Rajakylosaurus",
+      "rarity": "Legendary"
+    },
+    "dd3c9d1a04e71c8459fbb944b35ad10a": {
+      "displayName": "Scolosaurus",
+      "rarity": "Common"
+    },
+    "ddeb4d367ddd53f4eb1b40da828aad54": {
+      "displayName": "Draco Lux",
+      "rarity": "Apex"
+    },
+    "de1aea690c965b347bcf2393b9715805": {
+      "displayName": "Pyrritator",
+      "rarity": "Legendary"
+    },
+    "dfe65e5fb9bb6c84da7e68af1f102958": {
+      "displayName": "Spinotasuchus",
+      "rarity": "Legendary"
+    },
+    "e04358ed95a8d5247a231ddaf8e98f87": {
+      "displayName": "Sinokotaraptor",
+      "rarity": "Legendary"
+    },
+    "e08085716ccb9a1488de4c84f7cfc061": {
+      "displayName": "Megaraptor",
+      "rarity": "Common"
+    },
+    "e0baf41f190ccaa48866fa57bc695ab9": {
+      "displayName": "Brachiosaurus",
+      "rarity": "Epic"
+    },
+    "e185b27f57d24894e8d138af60866bba": {
+      "displayName": "Spinosaurus",
+      "rarity": "Rare"
+    },
+    "e2174aca99bf7714a8fcb03198fea3c1": {
+      "displayName": "Tragodistis",
+      "rarity": "Legendary"
+    },
+    "e2947fddc5c043a45a97ec3a15e8148d": {
+      "displayName": "Utarinex",
+      "rarity": "Unique"
+    },
+    "e2ba9c091a883d446aea29b31b6daf3d": {
+      "displayName": "Ankylomoloch",
+      "rarity": "Legendary"
+    },
+    "e3412f7cb1dec4e44baae909d0e2c481": {
+      "displayName": "Deinotops",
+      "rarity": "Epic"
+    },
+    "e3750a1147b0a4b4d8d42a2fdd027f1c": {
+      "displayName": "Tyrannolophosaur",
+      "rarity": "Legendary"
+    },
+    "e38900ad69abc9d44a319ac45b74c7b2": {
+      "displayName": "Edaphocevia",
+      "rarity": "Legendary"
+    },
+    "e3f2abd6f6f601f459c709772d2152aa": {
+      "displayName": "Woolly Mammoth",
+      "rarity": "Epic"
+    },
+    "e46e9a06a4170e34db72a811261f5628": {
+      "displayName": "Einiasuchus",
+      "rarity": "Rare"
+    },
+    "e5b67e32b3180744a8aab21dc70722e1": {
+      "displayName": "Blue",
+      "rarity": "Epic"
+    },
+    "e6affd2ef97644345830953e845b3742": {
+      "displayName": "Parasauthops",
+      "rarity": "Unique"
+    },
+    "e74e95b2af8d5bd488d1086ba6a30196": {
+      "displayName": "Becklolyth",
+      "rarity": "Legendary"
+    },
+    "e9484e1a7cf684d469b1da9bc136b76a": {
+      "displayName": "Rinchicyon",
+      "rarity": "Legendary"
+    },
+    "ea2fce93b27874d44b179e614ded2daa": {
+      "displayName": "Sah Panthera",
+      "rarity": "Apex"
+    },
+    "ea39a455069143a4d84b5bb700a4f66a": {
+      "displayName": "Olorotitan",
+      "rarity": "Omega"
+    },
+    "eafaf81bfe116e74181acabdb6ccc2e2": {
+      "displayName": "Tarbosaurus",
+      "rarity": "Common"
+    },
+    "ebde0db107ca897418bf6e6fd16fe7c8": {
+      "displayName": "Ampelosaurus",
+      "rarity": "Epic"
+    },
+    "ec31c91b986e41044b4c85f8f5ffff07": {
+      "displayName": "Arctodus",
+      "rarity": "Rare"
+    },
+    "ec554f4fe22e3a24db724c73c39ae614": {
+      "displayName": "Tiger",
+      "rarity": "Epic"
+    },
+    "ec6b641da8e8cf6468bf41c030694bb1": {
+      "displayName": "Albertosaurus",
+      "rarity": "Rare"
+    },
+    "eccd92efb3166be498132e217dd195a5": {
+      "displayName": "Ovinnolophosaurus",
+      "rarity": "Unique"
+    },
+    "ed847ce890e2aa54c95a81ec353b94b2": {
+      "displayName": "Sarcosaurus",
+      "rarity": "Legendary"
+    },
+    "edfc240a9b3674f4c828afb06475a061": {
+      "displayName": "Megaloceros",
+      "rarity": "Rare"
+    },
+    "ee376f553576729479b8dbf8d6786a45": {
+      "displayName": "Ceratosaurus",
+      "rarity": "Unique"
+    },
+    "ee7c50dc84dd99749bce91cac15c5179": {
+      "displayName": "Giganyx",
+      "rarity": "Unique"
+    },
+    "ef42e4fb70d3f5f45a709b8a3a3a699b": {
+      "displayName": "Megalosuchus",
+      "rarity": "Legendary"
+    },
+    "f0e93367bc262d74491d427bf63f2842": {
+      "displayName": "Andrewtherium",
+      "rarity": "Epic"
+    },
+    "f0fbda52135de1b4b85074b3b08ff18b": {
+      "displayName": "Moschops",
+      "rarity": "Rare"
+    },
+    "f10f7dd652f51fe43be141d71e33cbb9": {
+      "displayName": "Bajadasaurus",
+      "rarity": "Rare"
+    },
+    "f142f9b10a746a34097599a13705c940": {
+      "displayName": "Mammolania",
+      "rarity": "Unique"
+    },
+    "f21f4370c60996849b7eb30abc89114a": {
+      "displayName": "Stegosaurus Ungulatus",
+      "rarity": "Omega"
+    },
+    "f232f9f6a0211e842bd5bda52010576d": {
+      "displayName": "Erlikogamma",
+      "rarity": "Epic"
+    },
+    "f249e2c6472c9864eb6424e27583d402": {
+      "displayName": "Little Eatie",
+      "rarity": "Omega"
+    },
+    "f27c29a69b99dc8439370912594c807f": {
+      "displayName": "Ovilophomoloch",
+      "rarity": "Legendary"
+    },
+    "f289642fd47fdc443af2f4c682c5b500": {
+      "displayName": "Coelurosauravus",
+      "rarity": "Common"
+    },
+    "f341015c45f826f43b21f72d7d733b4f": {
+      "displayName": "Skoonametrodon",
+      "rarity": "Apex"
+    },
+    "f4572960e2e2cef4dadc6f54c95c9002": {
+      "displayName": "Dreadactylus",
+      "rarity": "Legendary"
+    },
+    "f4a7493b8c4c40844a6cf82214fd4976": {
+      "displayName": "Constrictoraptor",
+      "rarity": "Unique"
+    },
+    "f4c2578f8ae40194dbea24c42465f68c": {
+      "displayName": "Iguanodon",
+      "rarity": "Common"
+    },
+    "f4f172532c377f94e8dc3d79b17da6b0": {
+      "displayName": "Dreadnoughtus",
+      "rarity": "Rare"
+    },
+    "f648ec73df27e524c8bc9bfc05342ab0": {
+      "displayName": "Ardontognathus",
+      "rarity": "Unique"
+    },
+    "f7935e8eab31b9948893a2bc098206b7": {
+      "displayName": "Edaphosaurus",
+      "rarity": "Epic"
+    },
+    "f7951a1023951af4d855c93d8807bc38": {
+      "displayName": "Gigantspinosaurus",
+      "rarity": "Epic"
+    },
+    "f85f5564ed6dca64a935f59101dc932d": {
+      "displayName": "Mutadon",
+      "rarity": "Unique"
+    },
+    "f957ca69e672d4344a114646940ab721": {
+      "displayName": "Haast Eagle",
+      "rarity": "Epic"
+    },
+    "f9c813fbd12c3cf4891a94b4562ca94a": {
+      "displayName": "Leucistic Baryonyx",
+      "rarity": "Rare"
+    },
+    "f9d2a07f71182384db5a71962b2cbb7a": {
+      "displayName": "Skoonasaurus",
+      "rarity": "Unique"
+    },
+    "fab487380a02cea48ac2e1a2ff516c5a": {
+      "displayName": "Majungasaurus",
+      "rarity": "Common"
+    },
+    "fb32c4b72dd6ba444827e2ab971eb98d": {
+      "displayName": "Pierce",
+      "rarity": "Legendary"
+    },
+    "fb49400ab9e2cc447b649104ef576bd6": {
+      "displayName": "Draco Intrepidus",
+      "rarity": "Apex"
+    },
+    "fc512bb3dc219544cbe6cfca36e90d22": {
+      "displayName": "Woolly Rhino",
+      "rarity": "Epic"
+    },
+    "fcff6d1a19ac42845b514c7b6feb20f8": {
+      "displayName": "Becklophosaurus",
+      "rarity": "Legendary"
+    },
+    "fd902b2b7b747d34393aa6749056cddd": {
+      "displayName": "Ovilophosaurus",
+      "rarity": "Epic"
+    },
+    "fdabf02829d8ec247b940de4c7e662dc": {
+      "displayName": "Hydra Boa",
+      "rarity": "Apex"
+    },
+    "fdfbd81c6a886304188afdf568c0efc0": {
+      "displayName": "Suchomimus",
+      "rarity": "Common"
+    },
+    "fe4e27a63343e2544b337a5b75b55274": {
+      "displayName": "Cryolophosaurus",
+      "rarity": "Omega"
+    },
+    "ff2d338af1ad7f746859602f5c7ee2c4": {
+      "displayName": "Geminititan",
+      "rarity": "Unique"
+    },
+    "ff2eeafd5a983e44085253bb1b0d7f47": {
+      "displayName": "Diplodocus",
+      "rarity": "Epic"
+    },
+    "ff36643b8afba9841944e0268b8a89e8": {
+      "displayName": "Dakotaraptor",
+      "rarity": "Epic"
+    },
+    "fff51bacb4eeb8c4c96f72a5010e0ac2": {
+      "displayName": "Doedicurus",
+      "rarity": "Rare"
+    }
+  }
+}
