@@ -7,6 +7,7 @@ from pathlib import Path
 import re
 import subprocess
 import sys
+from creature_game_mining import EXTRACTION_VERSION, change_report, progression_checks, render_report
 
 PALEO = "https://www.paleo.gg/games/jurassic-world-alive/dinodex"
 SCRIPT = Path(__file__).with_name("fetch-game-creature-identities.py")
@@ -63,13 +64,15 @@ def main():
     version = subprocess.check_output([sys.executable, str(SCRIPT), "--check-version"], text=True).strip()
     page = fetch_page(PALEO)
     paleo_updated = page["meta"]["lastModifiedDate"]
-    if (previous and previous["gameVersion"] == version and
-            previous["paleoUpdatedAt"] == paleo_updated and game_path.exists()):
+    report_paths = [output / name for name in ("game-changes.json", "progression-checks.json", "game-report.md")]
+    if (previous and previous["gameVersion"] == version and previous.get("extractionVersion") == EXTRACTION_VERSION and
+            previous["paleoUpdatedAt"] == paleo_updated and game_path.exists() and all(path.exists() for path in report_paths)):
         print(f"Unchanged: game {version}, Paleo {paleo_updated}; no package download")
         return
 
-    if previous and previous["gameVersion"] == version and game_path.exists():
-        game = json.loads(game_path.read_text())
+    previous_game = json.loads(game_path.read_text()) if game_path.exists() else None
+    if previous_game and previous_game["version"] == version and previous_game.get("extractionVersion") == EXTRACTION_VERSION:
+        game = previous_game
     else:
         extracted = subprocess.check_output(
             [sys.executable, str(SCRIPT), args.package_directory], text=True,
@@ -94,13 +97,25 @@ def main():
         "schemaVersion": "jwa-creature-identities.v1",
         "gameVersion": version, "packageSha256": game["sha256"],
         "paleoUpdatedAt": paleo_updated, "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "extractionVersion": EXTRACTION_VERSION,
         "identities": dict(sorted({**retained, **identities}.items())),
     }
+    if (previous_game and previous_game.get("extractionVersion") == EXTRACTION_VERSION and
+            previous_game["version"] == game["version"] and report_paths[0].exists()):
+        changes = json.loads(report_paths[0].read_text())
+    else:
+        changes = change_report(previous_game, game, catalog["identities"])
+    checks = progression_checks(game, catalog["identities"], roster, dict(fetched))
+    checks.update({"paleoUpdatedAt": paleo_updated, "packageSha256": game["sha256"]})
     output.mkdir(parents=True, exist_ok=True)
     # The workflow commits both files together, only after all validation succeeds.
     game_path.write_text(json.dumps(game, indent=2) + "\n")
     catalog_path.write_text(json.dumps(catalog, indent=2) + "\n")
+    report_paths[0].write_text(json.dumps(changes, indent=2) + "\n")
+    report_paths[1].write_text(json.dumps(checks, indent=2) + "\n")
+    report_paths[2].write_text(render_report(changes, checks))
     print(f"Verified {len(identities)} identities; published catalog has {len(catalog['identities'])}")
+    print(f"Progression comparisons: {checks['checkedFields']}; differences for review: {len(checks['mismatches'])}")
 
 
 if __name__ == "__main__":
