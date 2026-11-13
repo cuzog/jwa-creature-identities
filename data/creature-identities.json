@@ -2,8 +2,8 @@
   "schemaVersion": "jwa-creature-identities.v1",
   "gameVersion": "3.23.57",
   "packageSha256": "760fae8439d85b0ff2a6d40ae285743a7f562ee2f7c8a78de8e83b21ab7e5554",
-  "paleoUpdatedAt": "2026-10-15",
-  "generatedAt": "2026-11-08T13:45:17.048082+00:00",
+  "paleoUpdatedAt": "2026-11-12",
+  "generatedAt": "2026-11-13T17:15:42.922530+00:00",
   "extractionVersion": 2,
   "identities": {
     "009fa61d4c8eac7459fab99f85c4a21b": {
@@ -892,6 +892,10 @@
     },
     "6fcebfed6790bc848b9bbf5c50c8e420": {
       "displayName": "Spinosaurus Aegyptiacus",
+      "rarity": "Omega"
+    },
+    "702e43132be82904187520200da8cd01": {
+      "displayName": "One Arm Baryonyx",
       "rarity": "Omega"
     },
     "720e7958b13ebbb4f9f1939a1c2e4901": {
@@ -1949,6 +1953,10 @@
     "f9d2a07f71182384db5a71962b2cbb7a": {
       "displayName": "Skoonasaurus",
       "rarity": "Unique"
+    },
+    "fa568d545202ff3478242671585b0fe2": {
+      "displayName": "Ovinnonyx",
+      "rarity": "Apex"
     },
     "fab487380a02cea48ac2e1a2ff516c5a": {
       "displayName": "Majungasaurus",
