@@ -1,20 +1,26 @@
-# Game data report: 3.23.57
+# Game data report: 3.24.38
 
 This report describes packaged data. It does not change app calculations.
 
-A baseline was established for newly retained fields. Missing fields in the older extraction are not treated as game changes.
-
-Changed creature records: 0.
-Package IDs added: 0; removed: 0.
+Changed creature records: 9.
+Package IDs added: 8; removed: 0.
 Changed rarity tables: 0.
 
 ## Creature changes
 
-No changes in previously retained creature fields.
+- Stomatosuchus Mattel: stats, moves, resistances, abilityLoadout
+- Dakotanops: moves, resistances, abilityLoadout
+- Tsintamoloch: moves, resistances, abilityLoadout
+- Rajadotholus: moves, resistances, abilityLoadout
+- Cryolophosaurus Mattel: stats, moves, resistances, abilityLoadout
+- Imperatosuchus: stats, resistances
+- Paralidactylus: abilityLoadout
+- Koolabourgiana: moves, abilityLoadout
+- Ovinnonyx: stats, moves, resistances, abilityLoadout
 
 ## Progression checks against Paleo
 
-Fields compared: 224. Differences needing review: 0.
+Fields compared: 223. Differences needing review: 0.
 
 Differences can reflect package age, server-side changes, or source interpretation. They are not applied automatically.
 

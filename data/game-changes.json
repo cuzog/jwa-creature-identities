@@ -1,11 +1,799 @@
 {
   "schemaVersion": "jwa-game-changes.v1",
   "fromGameVersion": "3.23.57",
-  "toGameVersion": "3.23.57",
-  "packageSha256": "760fae8439d85b0ff2a6d40ae285743a7f562ee2f7c8a78de8e83b21ab7e5554",
-  "baseline": true,
-  "addedIds": [],
+  "toGameVersion": "3.24.38",
+  "packageSha256": "d9412192ce6313cc9a55a7e80e26fa18f60928cf250d09535ad28a965dde233f",
+  "baseline": false,
+  "addedIds": [
+    "09b35f6fb13510a419861b14d69ab0d7",
+    "1677051a054b703429bdcf62f37a228b",
+    "5b3c643519e061e42b171a8010fbced6",
+    "6fd2e10348b914745acfa193f9747c43",
+    "8eb33f2be857f9d48b96ffc23bfdb8fb",
+    "d1acaac7338f98b44a1e8b33e993428c",
+    "ed9fdb952fa1e284aa91de11fd0de1f4",
+    "f48038ab0ebdb6c4fb61bebd9b9ab0fb"
+  ],
   "removedIds": [],
-  "changedCreatures": [],
+  "changedCreatures": [
+    {
+      "id": "009fa61d4c8eac7459fab99f85c4a21b",
+      "displayName": "Stomatosuchus Mattel",
+      "fields": {
+        "stats": {
+          "before": [
+            4850,
+            1700,
+            117,
+            20.0,
+            5.0,
+            125.0
+          ],
+          "after": [
+            5150,
+            1750,
+            117,
+            30.0,
+            10.0,
+            125.0
+          ]
+        },
+        "moves": {
+          "before": [
+            "240c6cbd30df791429f3a37764e3104b",
+            "6ce73d4aa8a730e4fb52e04fe366a1f8",
+            "a254ac8c6081e6549937adc575c60495",
+            "a7fe0810515e9bd47bc4770413871bdf"
+          ],
+          "after": [
+            "240c6cbd30df791429f3a37764e3104b",
+            "6ce73d4aa8a730e4fb52e04fe366a1f8",
+            "8aa2e18bf98a04e43a82d3a25b2b3408",
+            "a7fe0810515e9bd47bc4770413871bdf"
+          ]
+        },
+        "resistances": {
+          "before": {
+            "rs": 67.0,
+            "rsp": 100.0,
+            "rt": 0.0,
+            "rr": 50.0,
+            "rd": 50.0,
+            "rdot": 50.0,
+            "rv": 0.0,
+            "rdec": 75.0,
+            "rcrit": 0.0,
+            "rarm": 0.0,
+            "raff": 0.0,
+            "rhd": 50.0,
+            "rdaze": 67.0
+          },
+          "after": {
+            "rs": 67.0,
+            "rsp": 100.0,
+            "rt": 0.0,
+            "rr": 50.0,
+            "rd": 75.0,
+            "rdot": 50.0,
+            "rv": 0.0,
+            "rdec": 75.0,
+            "rcrit": 0.0,
+            "rarm": 0.0,
+            "raff": 0.0,
+            "rhd": 50.0,
+            "rdaze": 67.0
+          }
+        },
+        "abilityLoadout": {
+          "before": {
+            "active": [
+              "240c6cbd30df791429f3a37764e3104b",
+              "6ce73d4aa8a730e4fb52e04fe366a1f8",
+              "a254ac8c6081e6549937adc575c60495",
+              "a7fe0810515e9bd47bc4770413871bdf"
+            ],
+            "swapIn": [],
+            "counter": [
+              "7bc39bebe728ea341b43259383589620"
+            ],
+            "onEscape": [
+              "76ce55cdfee2f3b4791eeb22b1bdfdad"
+            ],
+            "reactive": [],
+            "passives": [
+              "7a6fa4385837da7409385ed1b81985b8",
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          },
+          "after": {
+            "active": [
+              "240c6cbd30df791429f3a37764e3104b",
+              "6ce73d4aa8a730e4fb52e04fe366a1f8",
+              "8aa2e18bf98a04e43a82d3a25b2b3408",
+              "a7fe0810515e9bd47bc4770413871bdf"
+            ],
+            "swapIn": [],
+            "counter": [
+              "7e8828209aac674438b71e1cc1af6de5"
+            ],
+            "onEscape": [
+              "76ce55cdfee2f3b4791eeb22b1bdfdad"
+            ],
+            "reactive": [],
+            "passives": [
+              "7a6fa4385837da7409385ed1b81985b8",
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "161977074658cd74b97d6791c3865cf4",
+      "displayName": "Dakotanops",
+      "fields": {
+        "moves": {
+          "before": [
+            "422ce5b17b107c44ea3b9f560a25200f",
+            "54392465bcdce764ca670f4456595739",
+            "61c37acb757a4f94f99be79bd2c9aade",
+            "9d873856683b4be44a68d7029a910503",
+            "af006abdeab42574abdfd233ff1f620d"
+          ],
+          "after": [
+            "422ce5b17b107c44ea3b9f560a25200f",
+            "54392465bcdce764ca670f4456595739",
+            "61c37acb757a4f94f99be79bd2c9aade",
+            "af006abdeab42574abdfd233ff1f620d",
+            "f6750bbe3baf4344fb4989a22f5cea29"
+          ]
+        },
+        "resistances": {
+          "before": {
+            "rs": 0.0,
+            "rsp": 75.0,
+            "rt": 0.0,
+            "rr": 0.0,
+            "rd": 100.0,
+            "rdot": 0.0,
+            "rv": 0.0,
+            "rdec": 0.0,
+            "rcrit": 100.0,
+            "rarm": 0.0,
+            "raff": 0.0,
+            "rhd": 0.0,
+            "rdaze": 0.0
+          },
+          "after": {
+            "rs": 0.0,
+            "rsp": 100.0,
+            "rt": 0.0,
+            "rr": 0.0,
+            "rd": 100.0,
+            "rdot": 0.0,
+            "rv": 0.0,
+            "rdec": 25.0,
+            "rcrit": 100.0,
+            "rarm": 0.0,
+            "raff": 0.0,
+            "rhd": 0.0,
+            "rdaze": 0.0
+          }
+        },
+        "abilityLoadout": {
+          "before": {
+            "active": [
+              "422ce5b17b107c44ea3b9f560a25200f",
+              "54392465bcdce764ca670f4456595739",
+              "61c37acb757a4f94f99be79bd2c9aade",
+              "9d873856683b4be44a68d7029a910503",
+              "af006abdeab42574abdfd233ff1f620d"
+            ],
+            "swapIn": [
+              "15628dee09bb092449945fd629a418ff"
+            ],
+            "counter": [],
+            "onEscape": [],
+            "reactive": [],
+            "passives": []
+          },
+          "after": {
+            "active": [
+              "422ce5b17b107c44ea3b9f560a25200f",
+              "54392465bcdce764ca670f4456595739",
+              "61c37acb757a4f94f99be79bd2c9aade",
+              "af006abdeab42574abdfd233ff1f620d",
+              "f6750bbe3baf4344fb4989a22f5cea29"
+            ],
+            "swapIn": [
+              "15628dee09bb092449945fd629a418ff"
+            ],
+            "counter": [],
+            "onEscape": [],
+            "reactive": [],
+            "passives": []
+          }
+        }
+      }
+    },
+    {
+      "id": "309bbde5fc1e3774dadf9805f72cdc4a",
+      "displayName": "Tsintamoloch",
+      "fields": {
+        "moves": {
+          "before": [
+            "02cbcdd6237e6f24ca15146122749269",
+            "9b377daee5cd06c429e79649e3cf82f4",
+            "b5a1fcdd52b34234aab97bc8de20af71",
+            "b98e47ccc2ed17640b67688eace7c081"
+          ],
+          "after": [
+            "02cbcdd6237e6f24ca15146122749269",
+            "29c3a20924eb6dc41ae47191777d4173",
+            "2e6c63070c6846b4ebeee6b426360905",
+            "b98e47ccc2ed17640b67688eace7c081"
+          ]
+        },
+        "resistances": {
+          "before": {
+            "rs": 100.0,
+            "rsp": 80.0,
+            "rt": 75.0,
+            "rr": 25.0,
+            "rd": 65.0,
+            "rdot": 0.0,
+            "rv": 75.0,
+            "rdec": 67.0,
+            "rcrit": 0.0,
+            "rarm": 0.0,
+            "raff": 25.0,
+            "rhd": 25.0,
+            "rdaze": 0.0
+          },
+          "after": {
+            "rs": 100.0,
+            "rsp": 75.0,
+            "rt": 100.0,
+            "rr": 0.0,
+            "rd": 50.0,
+            "rdot": 0.0,
+            "rv": 100.0,
+            "rdec": 67.0,
+            "rcrit": 0.0,
+            "rarm": 0.0,
+            "raff": 0.0,
+            "rhd": 50.0,
+            "rdaze": 50.0
+          }
+        },
+        "abilityLoadout": {
+          "before": {
+            "active": [
+              "02cbcdd6237e6f24ca15146122749269",
+              "9b377daee5cd06c429e79649e3cf82f4",
+              "b5a1fcdd52b34234aab97bc8de20af71",
+              "b98e47ccc2ed17640b67688eace7c081"
+            ],
+            "swapIn": [],
+            "counter": [
+              "3eb5a199e0e123c419166d4fedf4e2d0"
+            ],
+            "onEscape": [
+              "e24b0048826b2d64ba5b13f4a1b12546"
+            ],
+            "reactive": [],
+            "passives": [
+              "7a6fa4385837da7409385ed1b81985b8",
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          },
+          "after": {
+            "active": [
+              "02cbcdd6237e6f24ca15146122749269",
+              "29c3a20924eb6dc41ae47191777d4173",
+              "2e6c63070c6846b4ebeee6b426360905",
+              "b98e47ccc2ed17640b67688eace7c081"
+            ],
+            "swapIn": [
+              "5307ae663ad86a1469c49385d4cbf547"
+            ],
+            "counter": [
+              "3eb5a199e0e123c419166d4fedf4e2d0"
+            ],
+            "onEscape": [
+              "e24b0048826b2d64ba5b13f4a1b12546"
+            ],
+            "reactive": [],
+            "passives": [
+              "7a6fa4385837da7409385ed1b81985b8",
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "5b30330445d776b4388ce090f48bfbbd",
+      "displayName": "Rajadotholus",
+      "fields": {
+        "moves": {
+          "before": [
+            "1162baf632c3a7848ba27b596ee4b7d3",
+            "9b377daee5cd06c429e79649e3cf82f4",
+            "b132b9da9aff077488f4a71e8c264b6f",
+            "e19b76d299ffc894ebb0b35f1e4e88fe"
+          ],
+          "after": [
+            "1162baf632c3a7848ba27b596ee4b7d3",
+            "323a49677f3b5f44aa8902d4a4fd16a5",
+            "9b377daee5cd06c429e79649e3cf82f4",
+            "e19b76d299ffc894ebb0b35f1e4e88fe"
+          ]
+        },
+        "resistances": {
+          "before": {
+            "rs": 75.0,
+            "rsp": 75.0,
+            "rt": 0.0,
+            "rr": 50.0,
+            "rd": 50.0,
+            "rdot": 33.0,
+            "rv": 0.0,
+            "rdec": 100.0,
+            "rcrit": 50.0,
+            "rarm": 100.0,
+            "raff": 0.0,
+            "rhd": 0.0,
+            "rdaze": 0.0
+          },
+          "after": {
+            "rs": 75.0,
+            "rsp": 75.0,
+            "rt": 0.0,
+            "rr": 50.0,
+            "rd": 50.0,
+            "rdot": 33.0,
+            "rv": 25.0,
+            "rdec": 100.0,
+            "rcrit": 50.0,
+            "rarm": 100.0,
+            "raff": 25.0,
+            "rhd": 0.0,
+            "rdaze": 0.0
+          }
+        },
+        "abilityLoadout": {
+          "before": {
+            "active": [
+              "1162baf632c3a7848ba27b596ee4b7d3",
+              "9b377daee5cd06c429e79649e3cf82f4",
+              "b132b9da9aff077488f4a71e8c264b6f",
+              "e19b76d299ffc894ebb0b35f1e4e88fe"
+            ],
+            "swapIn": [],
+            "counter": [
+              "92005823db4747a4cb1acef21cb1af58"
+            ],
+            "onEscape": [
+              "cc5d98281867ecf43a789507564e0a95"
+            ],
+            "reactive": [],
+            "passives": [
+              "7a6fa4385837da7409385ed1b81985b8",
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          },
+          "after": {
+            "active": [
+              "1162baf632c3a7848ba27b596ee4b7d3",
+              "323a49677f3b5f44aa8902d4a4fd16a5",
+              "9b377daee5cd06c429e79649e3cf82f4",
+              "e19b76d299ffc894ebb0b35f1e4e88fe"
+            ],
+            "swapIn": [],
+            "counter": [
+              "92005823db4747a4cb1acef21cb1af58"
+            ],
+            "onEscape": [
+              "cc5d98281867ecf43a789507564e0a95"
+            ],
+            "reactive": [],
+            "passives": [
+              "7a6fa4385837da7409385ed1b81985b8",
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "5e01fe2a9675dc44aba4b1b46b86e1d6",
+      "displayName": "Cryolophosaurus Mattel",
+      "fields": {
+        "stats": {
+          "before": [
+            4875,
+            1455,
+            117,
+            10.0,
+            5.0,
+            125.0
+          ],
+          "after": [
+            5000,
+            1675,
+            122,
+            15.0,
+            20.0,
+            125.0
+          ]
+        },
+        "moves": {
+          "before": [
+            "96810f2c151a1a442883d9c73325967c",
+            "ca5f40ca79d8170499e80c8929562609",
+            "ca82d33b318249140903d3b7adde55d9",
+            "fa56c4644933a1647acdd9c182e6941a"
+          ],
+          "after": [
+            "271465692cb510e4aa23113b2e6b3c58",
+            "4bb95ea05815e304d87f260a89dbf9f5",
+            "ca5f40ca79d8170499e80c8929562609",
+            "fa56c4644933a1647acdd9c182e6941a"
+          ]
+        },
+        "resistances": {
+          "before": {
+            "rs": 50.0,
+            "rsp": 100.0,
+            "rt": 0.0,
+            "rr": 0.0,
+            "rd": 50.0,
+            "rdot": 75.0,
+            "rv": 0.0,
+            "rdec": 100.0,
+            "rcrit": 0.0,
+            "rarm": 0.0,
+            "raff": 67.0,
+            "rhd": 50.0,
+            "rdaze": 0.0
+          },
+          "after": {
+            "rs": 75.0,
+            "rsp": 100.0,
+            "rt": 0.0,
+            "rr": 0.0,
+            "rd": 50.0,
+            "rdot": 75.0,
+            "rv": 100.0,
+            "rdec": 100.0,
+            "rcrit": 0.0,
+            "rarm": 0.0,
+            "raff": 67.0,
+            "rhd": 50.0,
+            "rdaze": 0.0
+          }
+        },
+        "abilityLoadout": {
+          "before": {
+            "active": [
+              "96810f2c151a1a442883d9c73325967c",
+              "ca5f40ca79d8170499e80c8929562609",
+              "ca82d33b318249140903d3b7adde55d9",
+              "fa56c4644933a1647acdd9c182e6941a"
+            ],
+            "swapIn": [
+              "7d180bc1e3464784eb5db9f0f6e0e262"
+            ],
+            "counter": [
+              "2d6b2dad7bb59064396033413d49bf6b"
+            ],
+            "onEscape": [],
+            "reactive": [],
+            "passives": [
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          },
+          "after": {
+            "active": [
+              "271465692cb510e4aa23113b2e6b3c58",
+              "4bb95ea05815e304d87f260a89dbf9f5",
+              "ca5f40ca79d8170499e80c8929562609",
+              "fa56c4644933a1647acdd9c182e6941a"
+            ],
+            "swapIn": [
+              "7d180bc1e3464784eb5db9f0f6e0e262"
+            ],
+            "counter": [
+              "2d6b2dad7bb59064396033413d49bf6b"
+            ],
+            "onEscape": [],
+            "reactive": [],
+            "passives": [
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "64f50f0a03c0ede4f83f1adcad7c8b21",
+      "displayName": "Imperatosuchus",
+      "fields": {
+        "stats": {
+          "before": [
+            4650,
+            1350,
+            112,
+            25.0,
+            15.0,
+            125.0
+          ],
+          "after": [
+            4950,
+            1500,
+            112,
+            25.0,
+            15.0,
+            125.0
+          ]
+        },
+        "resistances": {
+          "before": {
+            "rs": 100.0,
+            "rsp": 67.0,
+            "rt": 50.0,
+            "rr": 33.0,
+            "rd": 0.0,
+            "rdot": 67.0,
+            "rv": 100.0,
+            "rdec": 100.0,
+            "rcrit": 0.0,
+            "rarm": 0.0,
+            "raff": 0.0,
+            "rhd": 0.0,
+            "rdaze": 0.0
+          },
+          "after": {
+            "rs": 100.0,
+            "rsp": 67.0,
+            "rt": 50.0,
+            "rr": 33.0,
+            "rd": 0.0,
+            "rdot": 67.0,
+            "rv": 100.0,
+            "rdec": 100.0,
+            "rcrit": 0.0,
+            "rarm": 25.0,
+            "raff": 0.0,
+            "rhd": 0.0,
+            "rdaze": 25.0
+          }
+        }
+      }
+    },
+    {
+      "id": "a06552e2a561b0e4aa200660ebe99f2f",
+      "displayName": "Paralidactylus",
+      "fields": {
+        "abilityLoadout": {
+          "before": {
+            "active": [
+              "29557a5acd0c5c44b80be0681bfe7cb2",
+              "30d1c2688b140c346850770c2c92189b",
+              "d44e42ff65f0f714b800fd5ae651814c",
+              "fe0f50a89d92b3742b336b6c76bdf24c"
+            ],
+            "swapIn": [],
+            "counter": [
+              "d7302bbdc83fca146a033de931c5b2bb"
+            ],
+            "onEscape": [
+              "3ca6cd70257694b4db0f9cf2392ee975"
+            ],
+            "reactive": [],
+            "passives": [
+              "7a6fa4385837da7409385ed1b81985b8",
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          },
+          "after": {
+            "active": [
+              "29557a5acd0c5c44b80be0681bfe7cb2",
+              "30d1c2688b140c346850770c2c92189b",
+              "d44e42ff65f0f714b800fd5ae651814c",
+              "fe0f50a89d92b3742b336b6c76bdf24c"
+            ],
+            "swapIn": [],
+            "counter": [
+              "c88bb9e313651c645afc5e6c9d732ff9"
+            ],
+            "onEscape": [
+              "3ca6cd70257694b4db0f9cf2392ee975"
+            ],
+            "reactive": [],
+            "passives": [
+              "7a6fa4385837da7409385ed1b81985b8",
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "d04e1f18074eb3f4b94f792671f4b50a",
+      "displayName": "Koolabourgiana",
+      "fields": {
+        "moves": {
+          "before": [
+            "9b21e9454dcb8c54c99b4d05e8661018",
+            "bcd155a4a8ebd384dbd010346ad31975",
+            "da586519280626a41b16290298e16227",
+            "feded661743a23040a7c5072c566de68"
+          ],
+          "after": [
+            "4775d944f4fbaa144822469d5c3b39e4",
+            "74a6b75d854c83b4f82ca907a037cb25",
+            "8aeb105eed4571d449b41f4b39763c7c",
+            "bcd155a4a8ebd384dbd010346ad31975"
+          ]
+        },
+        "abilityLoadout": {
+          "before": {
+            "active": [
+              "9b21e9454dcb8c54c99b4d05e8661018",
+              "bcd155a4a8ebd384dbd010346ad31975",
+              "da586519280626a41b16290298e16227",
+              "feded661743a23040a7c5072c566de68"
+            ],
+            "swapIn": [
+              "3086fbfaaec320d4586df9a069d27b3c"
+            ],
+            "counter": [
+              "a897245300b0a694982aebd35ad6fad2"
+            ],
+            "onEscape": [],
+            "reactive": [],
+            "passives": [
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          },
+          "after": {
+            "active": [
+              "4775d944f4fbaa144822469d5c3b39e4",
+              "74a6b75d854c83b4f82ca907a037cb25",
+              "8aeb105eed4571d449b41f4b39763c7c",
+              "bcd155a4a8ebd384dbd010346ad31975"
+            ],
+            "swapIn": [
+              "3086fbfaaec320d4586df9a069d27b3c"
+            ],
+            "counter": [
+              "a897245300b0a694982aebd35ad6fad2"
+            ],
+            "onEscape": [],
+            "reactive": [],
+            "passives": [
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "fa568d545202ff3478242671585b0fe2",
+      "displayName": "Ovinnonyx",
+      "fields": {
+        "stats": {
+          "before": [
+            4350,
+            1600,
+            131,
+            0.0,
+            25.0,
+            150.0
+          ],
+          "after": [
+            4500,
+            1450,
+            131,
+            0.0,
+            25.0,
+            150.0
+          ]
+        },
+        "moves": {
+          "before": [
+            "03cdb101956e3104285fd705f6e13492",
+            "2d221d2815f8970489ad238dfb1257c5",
+            "9f65b9e6ebe77a5479ce4750dd2765f3",
+            "c7b42f960a57410ca96aac3c8b6c6f5b"
+          ],
+          "after": [
+            "55c150ccaf21bfa4faca30bba54b5b53",
+            "9d6ceea40650c484b89c7fb838bdcb9d",
+            "9f65b9e6ebe77a5479ce4750dd2765f3",
+            "c7b42f960a57410ca96aac3c8b6c6f5b",
+            "d2b97257cfdd9384482f15d0d26b8faf"
+          ]
+        },
+        "resistances": {
+          "before": {
+            "rs": 50.0,
+            "rsp": 0.0,
+            "rt": 0.0,
+            "rr": 50.0,
+            "rd": 0.0,
+            "rdot": 100.0,
+            "rv": 0.0,
+            "rdec": 100.0,
+            "rcrit": 100.0,
+            "rarm": 0.0,
+            "raff": 0.0,
+            "rhd": 0.0,
+            "rdaze": 0.0
+          },
+          "after": {
+            "rs": 50.0,
+            "rsp": 0.0,
+            "rt": 0.0,
+            "rr": 50.0,
+            "rd": 50.0,
+            "rdot": 100.0,
+            "rv": 23.0,
+            "rdec": 100.0,
+            "rcrit": 100.0,
+            "rarm": 0.0,
+            "raff": 25.0,
+            "rhd": 0.0,
+            "rdaze": 0.0
+          }
+        },
+        "abilityLoadout": {
+          "before": {
+            "active": [
+              "03cdb101956e3104285fd705f6e13492",
+              "2d221d2815f8970489ad238dfb1257c5",
+              "9f65b9e6ebe77a5479ce4750dd2765f3",
+              "c7b42f960a57410ca96aac3c8b6c6f5b"
+            ],
+            "swapIn": [],
+            "counter": [
+              "1e784db0afe1435c85ae562a242e56c4"
+            ],
+            "onEscape": [
+              "74409167ca973e2428f99bd56cff4c91"
+            ],
+            "reactive": [],
+            "passives": [
+              "7a6fa4385837da7409385ed1b81985b8",
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          },
+          "after": {
+            "active": [
+              "55c150ccaf21bfa4faca30bba54b5b53",
+              "9d6ceea40650c484b89c7fb838bdcb9d",
+              "9f65b9e6ebe77a5479ce4750dd2765f3",
+              "c7b42f960a57410ca96aac3c8b6c6f5b",
+              "d2b97257cfdd9384482f15d0d26b8faf"
+            ],
+            "swapIn": [],
+            "counter": [
+              "1e784db0afe1435c85ae562a242e56c4"
+            ],
+            "onEscape": [
+              "74409167ca973e2428f99bd56cff4c91"
+            ],
+            "reactive": [],
+            "passives": [
+              "7a6fa4385837da7409385ed1b81985b8",
+              "a8a72f15cac46fa4eb878800a02c15c8"
+            ]
+          }
+        }
+      }
+    }
+  ],
   "rarityChanges": {}
 }

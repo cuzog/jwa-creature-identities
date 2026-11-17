@@ -1,9 +1,9 @@
 {
   "schemaVersion": "jwa-creature-identities.v1",
-  "gameVersion": "3.23.57",
-  "packageSha256": "760fae8439d85b0ff2a6d40ae285743a7f562ee2f7c8a78de8e83b21ab7e5554",
+  "gameVersion": "3.24.38",
+  "packageSha256": "d9412192ce6313cc9a55a7e80e26fa18f60928cf250d09535ad28a965dde233f",
   "paleoUpdatedAt": "2026-11-12",
-  "generatedAt": "2026-11-13T17:15:42.922530+00:00",
+  "generatedAt": "2026-11-17T18:45:51.895974+00:00",
   "extractionVersion": 2,
   "identities": {
     "009fa61d4c8eac7459fab99f85c4a21b": {

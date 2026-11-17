@@ -1,7 +1,7 @@
 {
   "source": "https://d.apkpure.net/b/XAPK/com.ludia.jw2?version=latest",
-  "version": "3.23.57",
-  "sha256": "760fae8439d85b0ff2a6d40ae285743a7f562ee2f7c8a78de8e83b21ab7e5554",
+  "version": "3.24.38",
+  "sha256": "d9412192ce6313cc9a55a7e80e26fa18f60928cf250d09535ad28a965dde233f",
   "extractionVersion": 2,
   "creatures": [
     {
@@ -6414,6 +6414,190 @@
       "training": null
     },
     {
+      "id": "1677051a054b703429bdcf62f37a228b",
+      "definition": "Assets/Data/CreaturesStaticData/Aquilops2.json",
+      "internalName": "Aquilops2",
+      "localizationKey": "IDS_AQUILOPS2",
+      "rarity": "Omega",
+      "stats": [
+        1100,
+        375,
+        115,
+        0.0,
+        5.0,
+        120.0
+      ],
+      "moves": [
+        "0ce482ce595261547af87dc299bec3ac",
+        "4070bba768862684eb526ea13c9e9e87",
+        "4136ef97eb794323b1b4be6510ba2849",
+        "7b7e0db9646df7b48b8907f2fd142cc0"
+      ],
+      "resistances": {
+        "rs": 0.0,
+        "rsp": 50.0,
+        "rt": 0.0,
+        "rr": 0.0,
+        "rd": 50.0,
+        "rdot": 50.0,
+        "rv": 0.0,
+        "rdec": 75.0,
+        "rcrit": 25.0,
+        "rarm": 0.0,
+        "raff": 0.0,
+        "rhd": 100.0,
+        "rdaze": 0.0
+      },
+      "abilityLoadout": {
+        "active": [
+          "0ce482ce595261547af87dc299bec3ac",
+          "4070bba768862684eb526ea13c9e9e87",
+          "4136ef97eb794323b1b4be6510ba2849",
+          "7b7e0db9646df7b48b8907f2fd142cc0"
+        ],
+        "swapIn": [
+          "6557c8056acab9c48a6cbc61044f8013"
+        ],
+        "counter": [
+          "85df8c80bbfe4886b74d15483ea35b77"
+        ],
+        "onEscape": [
+          "48f01a38746b87a419d83d0518075d3c"
+        ],
+        "reactive": [],
+        "passives": [
+          "7a6fa4385837da7409385ed1b81985b8",
+          "a8a72f15cac46fa4eb878800a02c15c8"
+        ]
+      },
+      "enhancements": [],
+      "training": {
+        "caps": {
+          "health": 8660.0,
+          "damage": 1750.0,
+          "speed": 132.0,
+          "armor": 15.0,
+          "crit": 15.0,
+          "critm": 135.0
+        },
+        "perPoint": {
+          "health": 40.0,
+          "damage": 25.0,
+          "speed": 1.0,
+          "armor": 1.0,
+          "crit": 1.0,
+          "critm": 1.0
+        },
+        "milestones": [
+          {
+            "level": 6,
+            "costs": [
+              {
+                "material": "dna",
+                "amount": 300
+              }
+            ],
+            "dnaCost": 300,
+            "abilityIds": [
+              "6557c8056acab9c48a6cbc61044f8013"
+            ],
+            "rewards": [
+              {
+                "kind": "MiNbSwDa",
+                "data": {
+                  "aw": {
+                    "guid": "6557c8056acab9c48a6cbc61044f8013",
+                    "TypeName": "AbStDa"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "level": 11,
+            "costs": [
+              {
+                "material": "dna",
+                "amount": 400
+              }
+            ],
+            "dnaCost": 400,
+            "abilityIds": [
+              "4136ef97eb794323b1b4be6510ba2849"
+            ],
+            "rewards": [
+              {
+                "kind": "MiNbADa",
+                "data": {
+                  "ai": {
+                    "guid": "4136ef97eb794323b1b4be6510ba2849",
+                    "TypeName": "AbStDa"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "level": 16,
+            "costs": [
+              {
+                "material": "dna",
+                "amount": 600
+              }
+            ],
+            "dnaCost": 600,
+            "abilityIds": [
+              "48f01a38746b87a419d83d0518075d3c"
+            ],
+            "rewards": [
+              {
+                "kind": "MiNbPaDa",
+                "data": {
+                  "ap": {
+                    "guid": "7a6fa4385837da7409385ed1b81985b8",
+                    "TypeName": "PaStDa"
+                  }
+                }
+              },
+              {
+                "kind": "MiNbOeDa",
+                "data": {
+                  "ae": {
+                    "guid": "48f01a38746b87a419d83d0518075d3c",
+                    "TypeName": "AbStDa"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "level": 21,
+            "costs": [
+              {
+                "material": "dna",
+                "amount": 900
+              }
+            ],
+            "dnaCost": 900,
+            "abilityIds": [
+              "7b7e0db9646df7b48b8907f2fd142cc0"
+            ],
+            "rewards": [
+              {
+                "kind": "MiNbADa",
+                "data": {
+                  "ai": {
+                    "guid": "7b7e0db9646df7b48b8907f2fd142cc0",
+                    "TypeName": "AbStDa"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "23d0324e57ae7f04783483547b0025bd",
       "definition": "Assets/Data/CreaturesStaticData/Aquilosau.json",
       "internalName": "Aquilosau",
@@ -8275,6 +8459,191 @@
         ]
       },
       "enhancements": [],
+      "training": null
+    },
+    {
+      "id": "ed9fdb952fa1e284aa91de11fd0de1f4",
+      "definition": "Assets/Data/CreaturesStaticData/Arsicosau.json",
+      "internalName": "Arsicosau",
+      "localizationKey": "IDS_ARSICOSAU",
+      "rarity": "Apex",
+      "stats": [
+        5200,
+        1500,
+        121,
+        25.0,
+        20.0,
+        125.0
+      ],
+      "moves": [
+        "60a66f5a83114238a7a7bb4bd73fde14",
+        "611447ddd12fb8847b10ecd48da44cbb",
+        "639fa52ddfcc61f4fa2c85b4c3d1e796",
+        "d8a9a7c8b37e75643b6e648a1a288caa"
+      ],
+      "resistances": {
+        "rs": 100.0,
+        "rsp": 100.0,
+        "rt": 100.0,
+        "rr": 0.0,
+        "rd": 100.0,
+        "rdot": 50.0,
+        "rv": 75.0,
+        "rdec": 100.0,
+        "rcrit": 0.0,
+        "rarm": 75.0,
+        "raff": 25.0,
+        "rhd": 0.0,
+        "rdaze": 0.0
+      },
+      "abilityLoadout": {
+        "active": [
+          "60a66f5a83114238a7a7bb4bd73fde14",
+          "611447ddd12fb8847b10ecd48da44cbb",
+          "639fa52ddfcc61f4fa2c85b4c3d1e796",
+          "d8a9a7c8b37e75643b6e648a1a288caa"
+        ],
+        "swapIn": [
+          "2968ae2472147094b8f20fe64fc6b0d5"
+        ],
+        "counter": [
+          "e6eec8108ee130646ad7f687964718cd"
+        ],
+        "onEscape": [],
+        "reactive": [],
+        "passives": [
+          "a8a72f15cac46fa4eb878800a02c15c8"
+        ]
+      },
+      "enhancements": [
+        {
+          "level": 1,
+          "unlockLevel": 30,
+          "dnaCost": 100,
+          "requirements": [
+            {
+              "material": "catalyst_minor",
+              "amount": 360
+            },
+            {
+              "material": "coins",
+              "amount": 150000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "sp",
+              "bp": 20000000
+            }
+          }
+        },
+        {
+          "level": 2,
+          "unlockLevel": 30,
+          "dnaCost": 150,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 430
+            },
+            {
+              "material": "catalyst_minor",
+              "amount": 1300
+            },
+            {
+              "material": "coins",
+              "amount": 200000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "he",
+              "bp": 11000000
+            }
+          }
+        },
+        {
+          "level": 3,
+          "unlockLevel": 30,
+          "dnaCost": 200,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 1620
+            },
+            {
+              "material": "catalyst_minor",
+              "amount": 1080
+            },
+            {
+              "material": "coins",
+              "amount": 250000
+            }
+          ],
+          "benefit": {
+            "kind": "AepPoBeDa",
+            "data": {
+              "bp": 2
+            }
+          }
+        },
+        {
+          "level": 4,
+          "unlockLevel": 30,
+          "dnaCost": 250,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 1940
+            },
+            {
+              "material": "catalyst_major",
+              "amount": 650
+            },
+            {
+              "material": "coins",
+              "amount": 300000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "at",
+              "bp": 11000000
+            }
+          }
+        },
+        {
+          "level": 5,
+          "unlockLevel": 30,
+          "dnaCost": 300,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 1020
+            },
+            {
+              "material": "catalyst_major",
+              "amount": 1540
+            },
+            {
+              "material": "coins",
+              "amount": 400000
+            }
+          ],
+          "benefit": {
+            "kind": "NeRePaBeDa",
+            "data": {
+              "rpa": {
+                "guid": "00433db3e55ca6d40916b0cd0c8a3425",
+                "TypeName": "RePaStDa"
+              }
+            }
+          }
+        }
+      ],
       "training": null
     },
     {
@@ -16168,27 +16537,27 @@
       "localizationKey": "IDS_CRYOLOPHO2",
       "rarity": "Unique",
       "stats": [
-        4875,
-        1455,
-        117,
-        10.0,
-        5.0,
+        5000,
+        1675,
+        122,
+        15.0,
+        20.0,
         125.0
       ],
       "moves": [
-        "96810f2c151a1a442883d9c73325967c",
+        "271465692cb510e4aa23113b2e6b3c58",
+        "4bb95ea05815e304d87f260a89dbf9f5",
         "ca5f40ca79d8170499e80c8929562609",
-        "ca82d33b318249140903d3b7adde55d9",
         "fa56c4644933a1647acdd9c182e6941a"
       ],
       "resistances": {
-        "rs": 50.0,
+        "rs": 75.0,
         "rsp": 100.0,
         "rt": 0.0,
         "rr": 0.0,
         "rd": 50.0,
         "rdot": 75.0,
-        "rv": 0.0,
+        "rv": 100.0,
         "rdec": 100.0,
         "rcrit": 0.0,
         "rarm": 0.0,
@@ -16198,9 +16567,9 @@
       },
       "abilityLoadout": {
         "active": [
-          "96810f2c151a1a442883d9c73325967c",
+          "271465692cb510e4aa23113b2e6b3c58",
+          "4bb95ea05815e304d87f260a89dbf9f5",
           "ca5f40ca79d8170499e80c8929562609",
-          "ca82d33b318249140903d3b7adde55d9",
           "fa56c4644933a1647acdd9c182e6941a"
         ],
         "swapIn": [
@@ -16535,18 +16904,18 @@
         "422ce5b17b107c44ea3b9f560a25200f",
         "54392465bcdce764ca670f4456595739",
         "61c37acb757a4f94f99be79bd2c9aade",
-        "9d873856683b4be44a68d7029a910503",
-        "af006abdeab42574abdfd233ff1f620d"
+        "af006abdeab42574abdfd233ff1f620d",
+        "f6750bbe3baf4344fb4989a22f5cea29"
       ],
       "resistances": {
         "rs": 0.0,
-        "rsp": 75.0,
+        "rsp": 100.0,
         "rt": 0.0,
         "rr": 0.0,
         "rd": 100.0,
         "rdot": 0.0,
         "rv": 0.0,
-        "rdec": 0.0,
+        "rdec": 25.0,
         "rcrit": 100.0,
         "rarm": 0.0,
         "raff": 0.0,
@@ -16558,8 +16927,8 @@
           "422ce5b17b107c44ea3b9f560a25200f",
           "54392465bcdce764ca670f4456595739",
           "61c37acb757a4f94f99be79bd2c9aade",
-          "9d873856683b4be44a68d7029a910503",
-          "af006abdeab42574abdfd233ff1f620d"
+          "af006abdeab42574abdfd233ff1f620d",
+          "f6750bbe3baf4344fb4989a22f5cea29"
         ],
         "swapIn": [
           "15628dee09bb092449945fd629a418ff"
@@ -23628,6 +23997,240 @@
       "training": null
     },
     {
+      "id": "6fd2e10348b914745acfa193f9747c43",
+      "definition": "Assets/Data/CreaturesStaticData/Gigantrod.json",
+      "internalName": "Gigantrod",
+      "localizationKey": "IDS_GIGANTROD",
+      "rarity": "Unique",
+      "stats": [
+        5330,
+        1475,
+        125,
+        15.0,
+        15.0,
+        125.0
+      ],
+      "moves": [
+        "0f6c35ef57b048f9a1f51102477fdfbf",
+        "1300e73eaee74e30857c279e9c6aefcd",
+        "74a6b75d854c83b4f82ca907a037cb25",
+        "fa2968e78ab149e1b82837776017ed70"
+      ],
+      "resistances": {
+        "rs": 100.0,
+        "rsp": 0.0,
+        "rt": 0.0,
+        "rr": 50.0,
+        "rd": 75.0,
+        "rdot": 0.0,
+        "rv": 100.0,
+        "rdec": 50.0,
+        "rcrit": 0.0,
+        "rarm": 0.0,
+        "raff": 0.0,
+        "rhd": 0.0,
+        "rdaze": 25.0
+      },
+      "abilityLoadout": {
+        "active": [
+          "0f6c35ef57b048f9a1f51102477fdfbf",
+          "1300e73eaee74e30857c279e9c6aefcd",
+          "74a6b75d854c83b4f82ca907a037cb25",
+          "fa2968e78ab149e1b82837776017ed70"
+        ],
+        "swapIn": [
+          "75d68b07c106af04b91ace59b9664bf2"
+        ],
+        "counter": [
+          "8f6b943e0bc34af9b0dd4e3b07393f9f"
+        ],
+        "onEscape": [],
+        "reactive": [],
+        "passives": [
+          "a8a72f15cac46fa4eb878800a02c15c8"
+        ]
+      },
+      "enhancements": [
+        {
+          "level": 1,
+          "unlockLevel": 30,
+          "dnaCost": 200,
+          "requirements": [
+            {
+              "material": "catalyst_minor",
+              "amount": 360
+            },
+            {
+              "material": "coins",
+              "amount": 100000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "he",
+              "bp": 11000000
+            }
+          }
+        },
+        {
+          "level": 2,
+          "unlockLevel": 30,
+          "dnaCost": 250,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 270
+            },
+            {
+              "material": "catalyst_minor",
+              "amount": 1620
+            },
+            {
+              "material": "coins",
+              "amount": 150000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "at",
+              "bp": 11000000
+            }
+          }
+        },
+        {
+          "level": 3,
+          "unlockLevel": 30,
+          "dnaCost": 300,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 1620
+            },
+            {
+              "material": "catalyst_minor",
+              "amount": 1080
+            },
+            {
+              "material": "coins",
+              "amount": 200000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "sp",
+              "bp": 20000000
+            }
+          }
+        },
+        {
+          "level": 4,
+          "unlockLevel": 30,
+          "dnaCost": 400,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 3240
+            },
+            {
+              "material": "coins",
+              "amount": 250000
+            }
+          ],
+          "benefit": {
+            "kind": "AepPoBeDa",
+            "data": {
+              "bp": 1
+            }
+          }
+        },
+        {
+          "level": 5,
+          "unlockLevel": 30,
+          "dnaCost": 500,
+          "requirements": [
+            {
+              "material": "catalyst_major",
+              "amount": 2000
+            },
+            {
+              "material": "coins",
+              "amount": 350000
+            }
+          ],
+          "benefit": {
+            "kind": "NeRePaBeDa",
+            "data": {
+              "rpa": {
+                "guid": "7a7586ac09627554d9d686e3578c8769",
+                "TypeName": "RePaStDa"
+              }
+            }
+          }
+        }
+      ],
+      "training": null
+    },
+    {
+      "id": "f48038ab0ebdb6c4fb61bebd9b9ab0fb",
+      "definition": "Assets/Data/CreaturesStaticData/Gigantros.json",
+      "internalName": "Gigantros",
+      "localizationKey": "IDS_GIGANTROS",
+      "rarity": "Legendary",
+      "stats": [
+        5050,
+        1425,
+        114,
+        15.0,
+        15.0,
+        125.0
+      ],
+      "moves": [
+        "0f6c35ef57b048f9a1f51102477fdfbf",
+        "11b69a0dd1d8dae43b7eb85df4f18174",
+        "74a6b75d854c83b4f82ca907a037cb25",
+        "b08c76da742bbcf47b59234e694b85f6"
+      ],
+      "resistances": {
+        "rs": 100.0,
+        "rsp": 0.0,
+        "rt": 0.0,
+        "rr": 50.0,
+        "rd": 75.0,
+        "rdot": 0.0,
+        "rv": 100.0,
+        "rdec": 50.0,
+        "rcrit": 0.0,
+        "rarm": 0.0,
+        "raff": 0.0,
+        "rhd": 0.0,
+        "rdaze": 25.0
+      },
+      "abilityLoadout": {
+        "active": [
+          "0f6c35ef57b048f9a1f51102477fdfbf",
+          "11b69a0dd1d8dae43b7eb85df4f18174",
+          "74a6b75d854c83b4f82ca907a037cb25",
+          "b08c76da742bbcf47b59234e694b85f6"
+        ],
+        "swapIn": [
+          "c7d2a3b70f297194fa6b3de3d0d158dc"
+        ],
+        "counter": [
+          "24b882f580a910b4eb7f17a6defb1344"
+        ],
+        "onEscape": [],
+        "reactive": [],
+        "passives": [
+          "a8a72f15cac46fa4eb878800a02c15c8"
+        ]
+      },
+      "enhancements": [],
+      "training": null
+    },
+    {
       "id": "f7951a1023951af4d855c93d8807bc38",
       "definition": "Assets/Data/CreaturesStaticData/Gigantspi.json",
       "internalName": "Gigantspi",
@@ -26392,8 +26995,8 @@
       "localizationKey": "IDS_IMPERATOS",
       "rarity": "Apex",
       "stats": [
-        4650,
-        1350,
+        4950,
+        1500,
         112,
         25.0,
         15.0,
@@ -26415,10 +27018,10 @@
         "rv": 100.0,
         "rdec": 100.0,
         "rcrit": 0.0,
-        "rarm": 0.0,
+        "rarm": 25.0,
         "raff": 0.0,
         "rhd": 0.0,
-        "rdaze": 0.0
+        "rdaze": 25.0
       },
       "abilityLoadout": {
         "active": [
@@ -29024,10 +29627,10 @@
         125.0
       ],
       "moves": [
-        "9b21e9454dcb8c54c99b4d05e8661018",
-        "bcd155a4a8ebd384dbd010346ad31975",
-        "da586519280626a41b16290298e16227",
-        "feded661743a23040a7c5072c566de68"
+        "4775d944f4fbaa144822469d5c3b39e4",
+        "74a6b75d854c83b4f82ca907a037cb25",
+        "8aeb105eed4571d449b41f4b39763c7c",
+        "bcd155a4a8ebd384dbd010346ad31975"
       ],
       "resistances": {
         "rs": 0.0,
@@ -29046,10 +29649,10 @@
       },
       "abilityLoadout": {
         "active": [
-          "9b21e9454dcb8c54c99b4d05e8661018",
-          "bcd155a4a8ebd384dbd010346ad31975",
-          "da586519280626a41b16290298e16227",
-          "feded661743a23040a7c5072c566de68"
+          "4775d944f4fbaa144822469d5c3b39e4",
+          "74a6b75d854c83b4f82ca907a037cb25",
+          "8aeb105eed4571d449b41f4b39763c7c",
+          "bcd155a4a8ebd384dbd010346ad31975"
         ],
         "swapIn": [
           "3086fbfaaec320d4586df9a069d27b3c"
@@ -29064,6 +29667,192 @@
         ]
       },
       "enhancements": [],
+      "training": null
+    },
+    {
+      "id": "8eb33f2be857f9d48b96ffc23bfdb8fb",
+      "definition": "Assets/Data/CreaturesStaticData/Koolamimu.json",
+      "internalName": "Koolamimu",
+      "localizationKey": "IDS_KOOLAMIMU",
+      "rarity": "Apex",
+      "stats": [
+        4500,
+        1600,
+        126,
+        10.0,
+        5.0,
+        150.0
+      ],
+      "moves": [
+        "23c9e627989a92049ae61d855e07f76e",
+        "49c44eb9a15e4882a3ce7e71c581c504",
+        "519a59c1ce010634eb359b889695b317",
+        "6fb6d925ca334ca2b83b58681a8a2766"
+      ],
+      "resistances": {
+        "rs": 100.0,
+        "rsp": 0.0,
+        "rt": 0.0,
+        "rr": 0.0,
+        "rd": 100.0,
+        "rdot": 100.0,
+        "rv": 0.0,
+        "rdec": 100.0,
+        "rcrit": 50.0,
+        "rarm": 0.0,
+        "raff": 0.0,
+        "rhd": 0.0,
+        "rdaze": 0.0
+      },
+      "abilityLoadout": {
+        "active": [
+          "23c9e627989a92049ae61d855e07f76e",
+          "49c44eb9a15e4882a3ce7e71c581c504",
+          "519a59c1ce010634eb359b889695b317",
+          "6fb6d925ca334ca2b83b58681a8a2766"
+        ],
+        "swapIn": [],
+        "counter": [
+          "4d4b8b4fca95b0049a7f50025fba82d6"
+        ],
+        "onEscape": [
+          "6a6d8d4e40b430047a16d7d467633e55"
+        ],
+        "reactive": [],
+        "passives": [
+          "7a6fa4385837da7409385ed1b81985b8",
+          "a8a72f15cac46fa4eb878800a02c15c8"
+        ]
+      },
+      "enhancements": [
+        {
+          "level": 1,
+          "unlockLevel": 30,
+          "dnaCost": 100,
+          "requirements": [
+            {
+              "material": "catalyst_minor",
+              "amount": 360
+            },
+            {
+              "material": "coins",
+              "amount": 150000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "sp",
+              "bp": 20000000
+            }
+          }
+        },
+        {
+          "level": 2,
+          "unlockLevel": 30,
+          "dnaCost": 150,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 430
+            },
+            {
+              "material": "catalyst_minor",
+              "amount": 1300
+            },
+            {
+              "material": "coins",
+              "amount": 200000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "he",
+              "bp": 11000000
+            }
+          }
+        },
+        {
+          "level": 3,
+          "unlockLevel": 30,
+          "dnaCost": 200,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 1620
+            },
+            {
+              "material": "catalyst_minor",
+              "amount": 1080
+            },
+            {
+              "material": "coins",
+              "amount": 250000
+            }
+          ],
+          "benefit": {
+            "kind": "AepPoBeDa",
+            "data": {
+              "bp": 2
+            }
+          }
+        },
+        {
+          "level": 4,
+          "unlockLevel": 30,
+          "dnaCost": 250,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 1940
+            },
+            {
+              "material": "catalyst_major",
+              "amount": 650
+            },
+            {
+              "material": "coins",
+              "amount": 300000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "at",
+              "bp": 11000000
+            }
+          }
+        },
+        {
+          "level": 5,
+          "unlockLevel": 30,
+          "dnaCost": 300,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 1020
+            },
+            {
+              "material": "catalyst_major",
+              "amount": 1540
+            },
+            {
+              "material": "coins",
+              "amount": 400000
+            }
+          ],
+          "benefit": {
+            "kind": "NeRePaBeDa",
+            "data": {
+              "rpa": {
+                "guid": "ac677165fddeca946ae4e477b369556f",
+                "TypeName": "RePaStDa"
+              }
+            }
+          }
+        }
+      ],
       "training": null
     },
     {
@@ -36582,6 +37371,112 @@
       "training": null
     },
     {
+      "id": "5b3c643519e061e42b171a8010fbced6",
+      "definition": "Assets/Data/CreaturesStaticData/Nothroch.json",
+      "internalName": "Nothroch",
+      "localizationKey": "IDS_NOTHROCH",
+      "rarity": "Rare",
+      "stats": [
+        4600,
+        1350,
+        110,
+        0.0,
+        15.0,
+        135.0
+      ],
+      "moves": [
+        "057199b4f796404d95f18436b3bc4cb9",
+        "2030757f587d4b06a4e9d888368b7763",
+        "31bfc84b7cac4d52948278602e24a6c2",
+        "88283c3b05ae41d8a4d8288592b05ea3",
+        "ed08547c89834bba9a407cfa808d5053"
+      ],
+      "resistances": {
+        "rs": 0.0,
+        "rsp": 0.0,
+        "rt": 0.0,
+        "rr": 0.0,
+        "rd": 75.0,
+        "rdot": 25.0,
+        "rv": 50.0,
+        "rdec": 80.0,
+        "rcrit": 25.0,
+        "rarm": 0.0,
+        "raff": 0.0,
+        "rhd": 0.0,
+        "rdaze": 0.0
+      },
+      "abilityLoadout": {
+        "active": [
+          "057199b4f796404d95f18436b3bc4cb9",
+          "2030757f587d4b06a4e9d888368b7763",
+          "31bfc84b7cac4d52948278602e24a6c2",
+          "88283c3b05ae41d8a4d8288592b05ea3",
+          "ed08547c89834bba9a407cfa808d5053"
+        ],
+        "swapIn": [],
+        "counter": [],
+        "onEscape": [
+          "3258c1152ff01b74e929dd46373665e6"
+        ],
+        "reactive": [],
+        "passives": [
+          "7a6fa4385837da7409385ed1b81985b8"
+        ]
+      },
+      "enhancements": [],
+      "training": null
+    },
+    {
+      "id": "d1acaac7338f98b44a1e8b33e993428c",
+      "definition": "Assets/Data/CreaturesStaticData/Nothrony.json",
+      "internalName": "Nothrony",
+      "localizationKey": "IDS_NOTHRONY",
+      "rarity": "Common",
+      "stats": [
+        4350,
+        1075,
+        107,
+        0.0,
+        20.0,
+        130.0
+      ],
+      "moves": [
+        "67faf1d0de3740cbb8830ba77a4dc36b",
+        "b74f6ebf7891475cb169d1c7134fbae2",
+        "f47d7fed6ca1ec14883e335dd58e13fe"
+      ],
+      "resistances": {
+        "rs": 0.0,
+        "rsp": 0.0,
+        "rt": 0.0,
+        "rr": 0.0,
+        "rd": 0.0,
+        "rdot": 0.0,
+        "rv": 0.0,
+        "rdec": 0.0,
+        "rcrit": 0.0,
+        "rarm": 0.0,
+        "raff": 0.0,
+        "rhd": 0.0,
+        "rdaze": 0.0
+      },
+      "abilityLoadout": {
+        "active": [
+          "67faf1d0de3740cbb8830ba77a4dc36b",
+          "b74f6ebf7891475cb169d1c7134fbae2",
+          "f47d7fed6ca1ec14883e335dd58e13fe"
+        ],
+        "swapIn": [],
+        "counter": [],
+        "onEscape": [],
+        "reactive": [],
+        "passives": []
+      },
+      "enhancements": [],
+      "training": null
+    },
+    {
       "id": "3d7c6d458014103499bdaa1e1275fbd1",
       "definition": "Assets/Data/CreaturesStaticData/Nundasuch.json",
       "internalName": "nundasuch",
@@ -37499,40 +38394,42 @@
       "localizationKey": "IDS_OVINNONYX",
       "rarity": "Apex",
       "stats": [
-        4350,
-        1600,
+        4500,
+        1450,
         131,
         0.0,
         25.0,
         150.0
       ],
       "moves": [
-        "03cdb101956e3104285fd705f6e13492",
-        "2d221d2815f8970489ad238dfb1257c5",
+        "55c150ccaf21bfa4faca30bba54b5b53",
+        "9d6ceea40650c484b89c7fb838bdcb9d",
         "9f65b9e6ebe77a5479ce4750dd2765f3",
-        "c7b42f960a57410ca96aac3c8b6c6f5b"
+        "c7b42f960a57410ca96aac3c8b6c6f5b",
+        "d2b97257cfdd9384482f15d0d26b8faf"
       ],
       "resistances": {
         "rs": 50.0,
         "rsp": 0.0,
         "rt": 0.0,
         "rr": 50.0,
-        "rd": 0.0,
+        "rd": 50.0,
         "rdot": 100.0,
-        "rv": 0.0,
+        "rv": 23.0,
         "rdec": 100.0,
         "rcrit": 100.0,
         "rarm": 0.0,
-        "raff": 0.0,
+        "raff": 25.0,
         "rhd": 0.0,
         "rdaze": 0.0
       },
       "abilityLoadout": {
         "active": [
-          "03cdb101956e3104285fd705f6e13492",
-          "2d221d2815f8970489ad238dfb1257c5",
+          "55c150ccaf21bfa4faca30bba54b5b53",
+          "9d6ceea40650c484b89c7fb838bdcb9d",
           "9f65b9e6ebe77a5479ce4750dd2765f3",
-          "c7b42f960a57410ca96aac3c8b6c6f5b"
+          "c7b42f960a57410ca96aac3c8b6c6f5b",
+          "d2b97257cfdd9384482f15d0d26b8faf"
         ],
         "swapIn": [],
         "counter": [
@@ -38358,7 +39255,7 @@
         ],
         "swapIn": [],
         "counter": [
-          "d7302bbdc83fca146a033de931c5b2bb"
+          "c88bb9e313651c645afc5e6c9d732ff9"
         ],
         "onEscape": [
           "3ca6cd70257694b4db0f9cf2392ee975"
@@ -39122,6 +40019,196 @@
             "data": {
               "rpa": {
                 "guid": "df4453a7ffcfb334daf45d51b5062c34",
+                "TypeName": "RePaStDa"
+              }
+            }
+          }
+        }
+      ],
+      "training": null
+    },
+    {
+      "id": "09b35f6fb13510a419861b14d69ab0d7",
+      "definition": "Assets/Data/CreaturesStaticData/Pelorocer.json",
+      "internalName": "Pelorocer",
+      "localizationKey": "IDS_PELOROCER",
+      "rarity": "Apex",
+      "stats": [
+        4750,
+        1250,
+        113,
+        40.0,
+        10.0,
+        145.0
+      ],
+      "moves": [
+        "03b1d0a069014caf865da2c24bace757",
+        "06782af81a4a4f9bbeff17abb05910df",
+        "1b058ad31216468fbb7f20f9d81e6a7a",
+        "3174718754d24294904688791dd6cca7",
+        "43dc0f659e39c3541b26dd38321c0228"
+      ],
+      "resistances": {
+        "rs": 75.0,
+        "rsp": 75.0,
+        "rt": 0.0,
+        "rr": 0.0,
+        "rd": 0.0,
+        "rdot": 100.0,
+        "rv": 50.0,
+        "rdec": 100.0,
+        "rcrit": 0.0,
+        "rarm": 75.0,
+        "raff": 50.0,
+        "rhd": 75.0,
+        "rdaze": 0.0
+      },
+      "abilityLoadout": {
+        "active": [
+          "03b1d0a069014caf865da2c24bace757",
+          "06782af81a4a4f9bbeff17abb05910df",
+          "1b058ad31216468fbb7f20f9d81e6a7a",
+          "3174718754d24294904688791dd6cca7",
+          "43dc0f659e39c3541b26dd38321c0228"
+        ],
+        "swapIn": [
+          "0753621de7854fe285ea33d86cc7f86a"
+        ],
+        "counter": [
+          "6a91b023d72340cfbc1097428f7a145a"
+        ],
+        "onEscape": [
+          "54b711214ea84c64d840108cf43c58f0"
+        ],
+        "reactive": [],
+        "passives": [
+          "7a6fa4385837da7409385ed1b81985b8",
+          "a8a72f15cac46fa4eb878800a02c15c8"
+        ]
+      },
+      "enhancements": [
+        {
+          "level": 1,
+          "unlockLevel": 30,
+          "dnaCost": 100,
+          "requirements": [
+            {
+              "material": "catalyst_minor",
+              "amount": 360
+            },
+            {
+              "material": "coins",
+              "amount": 150000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "sp",
+              "bp": 20000000
+            }
+          }
+        },
+        {
+          "level": 2,
+          "unlockLevel": 30,
+          "dnaCost": 150,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 430
+            },
+            {
+              "material": "catalyst_minor",
+              "amount": 1300
+            },
+            {
+              "material": "coins",
+              "amount": 200000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "he",
+              "bp": 11000000
+            }
+          }
+        },
+        {
+          "level": 3,
+          "unlockLevel": 30,
+          "dnaCost": 200,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 1620
+            },
+            {
+              "material": "catalyst_minor",
+              "amount": 1080
+            },
+            {
+              "material": "coins",
+              "amount": 250000
+            }
+          ],
+          "benefit": {
+            "kind": "AepPoBeDa",
+            "data": {
+              "bp": 2
+            }
+          }
+        },
+        {
+          "level": 4,
+          "unlockLevel": 30,
+          "dnaCost": 250,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 1940
+            },
+            {
+              "material": "catalyst_major",
+              "amount": 650
+            },
+            {
+              "material": "coins",
+              "amount": 300000
+            }
+          ],
+          "benefit": {
+            "kind": "StEnBeDa",
+            "data": {
+              "st": "at",
+              "bp": 11000000
+            }
+          }
+        },
+        {
+          "level": 5,
+          "unlockLevel": 30,
+          "dnaCost": 300,
+          "requirements": [
+            {
+              "material": "catalyst",
+              "amount": 1020
+            },
+            {
+              "material": "catalyst_major",
+              "amount": 1540
+            },
+            {
+              "material": "coins",
+              "amount": 400000
+            }
+          ],
+          "benefit": {
+            "kind": "NeRePaBeDa",
+            "data": {
+              "rpa": {
+                "guid": "dfaab7c6cb1e44e3aa601d93a77c3afe",
                 "TypeName": "RePaStDa"
               }
             }
@@ -43148,8 +44235,8 @@
       ],
       "moves": [
         "1162baf632c3a7848ba27b596ee4b7d3",
+        "323a49677f3b5f44aa8902d4a4fd16a5",
         "9b377daee5cd06c429e79649e3cf82f4",
-        "b132b9da9aff077488f4a71e8c264b6f",
         "e19b76d299ffc894ebb0b35f1e4e88fe"
       ],
       "resistances": {
@@ -43159,19 +44246,19 @@
         "rr": 50.0,
         "rd": 50.0,
         "rdot": 33.0,
-        "rv": 0.0,
+        "rv": 25.0,
         "rdec": 100.0,
         "rcrit": 50.0,
         "rarm": 100.0,
-        "raff": 0.0,
+        "raff": 25.0,
         "rhd": 0.0,
         "rdaze": 0.0
       },
       "abilityLoadout": {
         "active": [
           "1162baf632c3a7848ba27b596ee4b7d3",
+          "323a49677f3b5f44aa8902d4a4fd16a5",
           "9b377daee5cd06c429e79649e3cf82f4",
-          "b132b9da9aff077488f4a71e8c264b6f",
           "e19b76d299ffc894ebb0b35f1e4e88fe"
         ],
         "swapIn": [],
@@ -49651,17 +50738,17 @@
       "localizationKey": "IDS_STOMATOSU",
       "rarity": "Unique",
       "stats": [
-        4850,
-        1700,
+        5150,
+        1750,
         117,
-        20.0,
-        5.0,
+        30.0,
+        10.0,
         125.0
       ],
       "moves": [
         "240c6cbd30df791429f3a37764e3104b",
         "6ce73d4aa8a730e4fb52e04fe366a1f8",
-        "a254ac8c6081e6549937adc575c60495",
+        "8aa2e18bf98a04e43a82d3a25b2b3408",
         "a7fe0810515e9bd47bc4770413871bdf"
       ],
       "resistances": {
@@ -49669,7 +50756,7 @@
         "rsp": 100.0,
         "rt": 0.0,
         "rr": 50.0,
-        "rd": 50.0,
+        "rd": 75.0,
         "rdot": 50.0,
         "rv": 0.0,
         "rdec": 75.0,
@@ -49683,12 +50770,12 @@
         "active": [
           "240c6cbd30df791429f3a37764e3104b",
           "6ce73d4aa8a730e4fb52e04fe366a1f8",
-          "a254ac8c6081e6549937adc575c60495",
+          "8aa2e18bf98a04e43a82d3a25b2b3408",
           "a7fe0810515e9bd47bc4770413871bdf"
         ],
         "swapIn": [],
         "counter": [
-          "7bc39bebe728ea341b43259383589620"
+          "7e8828209aac674438b71e1cc1af6de5"
         ],
         "onEscape": [
           "76ce55cdfee2f3b4791eeb22b1bdfdad"
@@ -53345,33 +54432,35 @@
       ],
       "moves": [
         "02cbcdd6237e6f24ca15146122749269",
-        "9b377daee5cd06c429e79649e3cf82f4",
-        "b5a1fcdd52b34234aab97bc8de20af71",
+        "29c3a20924eb6dc41ae47191777d4173",
+        "2e6c63070c6846b4ebeee6b426360905",
         "b98e47ccc2ed17640b67688eace7c081"
       ],
       "resistances": {
         "rs": 100.0,
-        "rsp": 80.0,
-        "rt": 75.0,
-        "rr": 25.0,
-        "rd": 65.0,
+        "rsp": 75.0,
+        "rt": 100.0,
+        "rr": 0.0,
+        "rd": 50.0,
         "rdot": 0.0,
-        "rv": 75.0,
+        "rv": 100.0,
         "rdec": 67.0,
         "rcrit": 0.0,
         "rarm": 0.0,
-        "raff": 25.0,
-        "rhd": 25.0,
-        "rdaze": 0.0
+        "raff": 0.0,
+        "rhd": 50.0,
+        "rdaze": 50.0
       },
       "abilityLoadout": {
         "active": [
           "02cbcdd6237e6f24ca15146122749269",
-          "9b377daee5cd06c429e79649e3cf82f4",
-          "b5a1fcdd52b34234aab97bc8de20af71",
+          "29c3a20924eb6dc41ae47191777d4173",
+          "2e6c63070c6846b4ebeee6b426360905",
           "b98e47ccc2ed17640b67688eace7c081"
         ],
-        "swapIn": [],
+        "swapIn": [
+          "5307ae663ad86a1469c49385d4cbf547"
+        ],
         "counter": [
           "3eb5a199e0e123c419166d4fedf4e2d0"
         ],
@@ -61427,8 +62516,8 @@
     }
   },
   "extractionMetrics": {
-    "wallSeconds": 0.8114,
-    "cpuSeconds": 0.7843,
-    "definitionReads": 1894
+    "wallSeconds": 2.2604,
+    "cpuSeconds": 2.2601,
+    "definitionReads": 1923
   }
 }
