@@ -20,7 +20,7 @@ Changed rarity tables: 0.
 
 ## Progression checks against Paleo
 
-Fields compared: 223. Differences needing review: 0.
+Fields compared: 226. Differences needing review: 0.
 
 Differences can reflect package age, server-side changes, or source interpretation. They are not applied automatically.
 
